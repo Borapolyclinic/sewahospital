@@ -1,0 +1,31 @@
+/* =========== PALLETE COLORS =========== */
+/* #230d6d
+#e15613 */
+
+* {
+  /* font-family: "ABeeZee", sans-serif; */
+  font-family: "League Spartan", sans-serif;
+}
+
+/* =========== NAVBAR =========== */
+.navbar {
+  background-color: #fff !important;
+  border-bottom: 1px solid #230d6d;
+}
+.navbar-brand {
+  max-width: 10%;
+}
+.navbar-brand img {
+  width: 100%;
+  height: auto;
+}
+.nav-link {
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+  /* =========== NAVBAR =========== */
+  .navbar-brand {
+    max-width: 40%;
+  }
+}
