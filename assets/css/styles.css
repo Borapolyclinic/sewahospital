@@ -7,6 +7,39 @@
   font-family: "League Spartan", sans-serif;
 }
 
+/* =========== UNDER MAINTENANCE =========== */
+.under-maintenance {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.under-maintenance img {
+  width: 10%;
+  height: auto;
+  margin-bottom: 50px;
+}
+.under-maintenance lottie-player {
+  width: 150px;
+  height: 150px;
+}
+.under-maintenance h1 {
+  font-weight: bold;
+  color: red;
+  margin: 0;
+  text-align: center;
+}
+.under-maintenance p {
+  font-size: 22px;
+  text-align: center;
+  margin: 0;
+}
+
 /* =========== NAVBAR =========== */
 .navbar {
   background-color: #fff !important;
@@ -24,6 +57,16 @@
 }
 
 @media only screen and (max-width: 768px) {
+  /* =========== UNDER MAINTENANCE =========== */
+  .under-maintenance {
+    padding: 20px;
+  }
+  .under-maintenance img {
+    width: 30%;
+  }
+  .under-maintenance h1 {
+    font-size: 40px;
+  }
   /* =========== NAVBAR =========== */
   .navbar-brand {
     max-width: 40%;
