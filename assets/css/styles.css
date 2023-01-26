@@ -7,6 +7,11 @@
   font-family: "League Spartan", sans-serif;
 }
 
+::selection {
+  color: #fff;
+  background: #e15613;
+}
+
 /* =========== UNDER MAINTENANCE =========== */
 .under-maintenance {
   display: flex;
@@ -68,7 +73,7 @@
 .home-section-1-caption {
   font-size: 16px !important;
   margin: 0;
-  color: #777;
+  color: #230d6d;
   margin-bottom: 0 !important;
 }
 .home-section-1-txt {
@@ -135,21 +140,53 @@
     width: 100%;
     border-bottom: 0;
   }
+
   /* =========== HOME SECTION 1 =========== */
   .home-section-1 {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center !important;
     top: initial;
     position: initial;
+    max-width: 100%;
+  }
+  .home-section-1-caption {
+    display: none;
+  }
+  .home-section-1-txt {
+    padding: 10px;
+    max-width: 100%;
+  }
+  .home-section-1-txt h1 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: initial;
+    text-align: right;
+  }
+  .home-section-1-txt span {
+    font-weight: bold;
+    font-size: 24px;
+    color: #e15613;
+    line-height: initial;
+    text-align: right;
+  }
+  .home-section-1-txt p {
+    font-size: 16px;
+    line-height: initial;
+    margin: 0;
+    margin-bottom: 0;
+    text-align: right;
   }
   .home-section-1-img {
-    max-width: 100%;
+    max-width: 60%;
     display: flex;
     justify-content: flex-end;
     align-items: flex-start !important;
   }
   .home-section-1-img img {
-    width: 70%;
+    width: 75%;
+  }
+  .home-section-1-button {
+    display: none;
   }
 }
