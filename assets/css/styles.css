@@ -42,18 +42,77 @@
 
 /* =========== NAVBAR =========== */
 .navbar {
-  background-color: #fff !important;
-  border-bottom: 1px solid #230d6d;
+  background-color: #00000000 !important;
+  width: 100%;
+  border-bottom: 1px solid #e7e7e7;
+  z-index: 999;
 }
 .navbar-brand {
-  max-width: 10%;
+  max-width: 8%;
 }
 .navbar-brand img {
   width: 100%;
   height: auto;
 }
 .nav-link {
+  font-size: 16px;
+}
+/* =========== HOME SECTION 1 =========== */
+.home-section-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  position: absolute;
+}
+.home-section-1-caption {
+  font-size: 16px !important;
+  margin: 0;
+  color: #777;
+  margin-bottom: 0 !important;
+}
+.home-section-1-txt {
+  padding-left: 50px;
+}
+.home-section-1-txt h1 {
+  font-weight: bold;
+  font-size: 80px;
+  line-height: 75px;
+}
+.home-section-1-txt span {
+  font-weight: bold;
+  font-size: 80px;
+  line-height: 75px;
+  color: #e15613;
+}
+.home-section-1-txt p {
+  font-size: 24px;
+  line-height: 30px;
+  margin: 0;
+  margin-bottom: 30px;
+}
+.home-section-1-img {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-section-1-img img {
+  width: 100%;
+}
+.home-section-1-button {
+  text-decoration: none;
+  color: #230d6d;
+  width: 200px !important;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #230d6d;
   font-size: 20px;
+}
+.home-section-1-button:hover {
+  background-color: #230d6d;
+  color: #fff;
+  transition: 0.3s all ease-in-out;
 }
 
 @media only screen and (max-width: 768px) {
@@ -69,6 +128,28 @@
   }
   /* =========== NAVBAR =========== */
   .navbar-brand {
-    max-width: 40%;
+    max-width: 30%;
+  }
+  .navbar {
+    background-color: #fff !important;
+    width: 100%;
+    border-bottom: 0;
+  }
+  /* =========== HOME SECTION 1 =========== */
+  .home-section-1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: initial;
+    position: initial;
+  }
+  .home-section-1-img {
+    max-width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start !important;
+  }
+  .home-section-1-img img {
+    width: 70%;
   }
 }
