@@ -253,4 +253,16 @@
   .home-section-1-button {
     display: none;
   }
+
+  /* =========== FOOTER =========== */
+  .footer-menu {
+    flex-direction: column;
+  }
+  .menu-list {
+    margin-bottom: 30px;
+  }
+  /* =========== DEVELOPER FOOTER =========== */
+  .developer-footer p {
+    font-size: 15px;
+  }
 }
