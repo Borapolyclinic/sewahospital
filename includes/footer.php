@@ -35,6 +35,7 @@
             <li><a href="#">Terms & Conditions</a></li>
             <li><a href="#">Privacy Policy</a></li>
             <li><a href="#">Disclaimer</a></li>
+            <li><a href="admin/index.php">Admin Login</a></li>
         </ul>
     </div>
 </div>

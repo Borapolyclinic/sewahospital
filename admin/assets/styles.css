@@ -1,0 +1,220 @@
+/* =========== PALLETE COLORS =========== */
+/* #230d6d
+#e15613 */
+
+::selection {
+  color: #fff;
+  background: #e15613;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+* {
+  /* font-family: "ABeeZee", sans-serif; */
+  font-family: "League Spartan", sans-serif;
+}
+
+/* =========== Admin Login =========== */
+.login-screen-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.login-section-img {
+  background-image: url("../assets/images/login-banner.webp");
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+}
+.login-brand {
+  display: none;
+}
+.login-form-section {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  padding: 50px;
+  margin-top: 100px;
+}
+.login-form-header {
+  margin-bottom: 20px;
+}
+.login-form-header h1 {
+  margin: 0;
+  color: #e15613;
+  font-weight: bold;
+  font-size: 30px;
+}
+.login-form-header h2 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+}
+.login-form {
+  border: 1px solid #e7e7e7e7;
+  width: 100%;
+  padding: 40px;
+  border-radius: 10px;
+  background-color: #fff;
+}
+.login-form-btn {
+  background-color: #230d6d;
+  border: 0;
+  padding: 15px;
+  color: #fff;
+  border-radius: 5px;
+}
+
+/* ============= TOP NAVBAR ============= */
+.navbar-brand {
+  max-width: 10%;
+  display: none;
+}
+.navbar-brand img {
+  width: 100%;
+}
+.nav-item {
+  visibility: hidden;
+}
+
+/* ============= SIDE NAVBAR ============= */
+.side-navbar {
+  background-color: #230d6d;
+  position: absolute;
+  width: 18%;
+  top: 0;
+  bottom: 0;
+  z-index: 999;
+}
+.side-navbar-brand {
+  max-width: 100%;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #4123a6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.side-navbar-brand img {
+  width: 80%;
+  height: auto;
+}
+.side-nav-list li {
+  list-style: none;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+.side-nav-list a {
+  text-decoration: none;
+  color: #fff;
+  margin: 0;
+}
+.side-nav-list ion-icon {
+  color: #fff;
+  margin-right: 5px;
+  font-size: 18px;
+}
+
+/* ============= DASHBOARD HEADER ============= */
+.dashboard-container {
+  position: absolute;
+  left: 0;
+  top: 0;
+  margin-left: 280px;
+  margin-top: 80px;
+}
+.dashboard-header p {
+  color: #777;
+  font-weight: 400;
+}
+
+/* ============= ADMIN FOOTER ============= */
+.admin-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+  border-top: 1px solid #e7e7e7e7;
+  background-color: #fff;
+  z-index: -999;
+}
+.admin-footer p {
+  margin: 0;
+  color: #000;
+  font-size: 14px;
+  text-align: center;
+}
+.admin-footer a {
+  text-decoration: none;
+  color: #e15613;
+}
+
+@media only screen and (max-width: 768px) {
+  .login-screen-container {
+    display: initial;
+    justify-content: initial;
+    align-items: initial;
+  }
+  .login-section-img {
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 100%;
+    position: initial !important;
+    top: initial;
+    bottom: initial;
+  }
+  .login-form-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    margin-top: 100px;
+  }
+  .login-brand {
+    display: initial;
+    width: 30%;
+    margin-bottom: 20px;
+  }
+
+  /* ============= TOP NAVBAR ============= */
+  .navbar-brand {
+    max-width: 30%;
+    display: initial;
+  }
+  .nav-item {
+    visibility: visible;
+  }
+
+  /* ============= SIDE NAVBAR ============= */
+  .side-navbar {
+    background-color: #230d6d;
+    display: none;
+  }
+
+  /* ============= DASHBOARD HEADER ============= */
+  .dashboard-container {
+    position: initial;
+    left: initial;
+    top: initial;
+    margin-left: 0;
+    margin-top: 0;
+    padding: 20px;
+  }
+}

@@ -1,8 +1,8 @@
 <div class="home-section-1">
     <div class="col-md-6 home-section-1-txt">
-        <p class="home-section-1-caption">Sewa Super Speciality Hospital</p>
-        <h1>A <span>LEGACY</span> OF EXCELLENCE</h1>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolores esse iste cum.</p>
+        <p class="home-section-1-caption">A Unit of Bora Polyclinic</p>
+        <h1>A <span>SUPER SPECIALITY</span> HOSPITAL</h1>
+        <p>NABH Accredited Lab ISO 15189:2012 | NABH Certified Hospital (Entry Level)</p>
         <a href="#" class="home-section-1-button">Know More</a>
     </div>
     <div class="col-md-6 home-section-1-img">

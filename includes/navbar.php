@@ -12,14 +12,32 @@
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="index.php">Home</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="who-we-are.php">Who we are</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        Specialities
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Facilities</a></li>
+                        <li><a class="dropdown-item" href="#">Departments</a></li>
+                        <li><a class="dropdown-item" href="#">Special Clinics</a></li>
+                        <li><a class="dropdown-item" href="#">Ayushman Bharat Yojna</a></li>
+                        <li><a class="dropdown-item" href="#">Insurances & TPA</a></li>
+                    </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="history.php">Our History</a>
+                    <a class="nav-link" aria-current="page" href="#">Rewards & Recognitions</a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="events.php">Events</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        Who we are
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="who-we-are.php">About Us</a></li>
+                        <li><a class="dropdown-item" href="#">Our Vision</a></li>
+                        <li><a class="dropdown-item" href="#">Our Management</a></li>
+                    </ul>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="contact.php">Connect with us</a>
