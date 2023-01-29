@@ -29,7 +29,8 @@
     <!-- =========== LOTTIE FILES =========== -->
     <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
-
+    <!-- =========== ANIMATE.CSS =========== -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
 </head>
 
