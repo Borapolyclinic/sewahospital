@@ -270,6 +270,51 @@
   text-align: center;
 }
 
+/* =========== HOME SECTION 4 =========== */
+.home-section-5-grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-section-5-img {
+  max-width: 100%;
+  height: auto;
+}
+.home-section-5-img img {
+  width: 80%;
+  height: auto;
+}
+.home-section-5-txt h3 {
+  font-size: 50px;
+  margin: 0;
+  font-weight: 700;
+  color: #230d6d;
+}
+.home-section-5-txt span {
+  color: #e15613;
+}
+.home-section-5-main-txt {
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+.home-section-5-link {
+  text-decoration: none;
+  background-color: #fff;
+  color: #230d6d;
+  padding: 8px;
+  font-size: 18px;
+  font-weight: 300;
+  border: 1px solid #230d6d;
+}
+.home-section-5-link:hover {
+  text-decoration: none;
+  background-color: #230d6d;
+  color: #fff;
+  border: 1px solid #230d6d;
+  transition: 0.3s all ease-in-out;
+  border-radius: 5px;
+}
+
 /* =========== SPECIALITIES SECTION 1 =========== */
 .section-1-banner {
   background-repeat: no-repeat;
