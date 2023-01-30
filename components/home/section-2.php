@@ -1,51 +1,32 @@
 <div class="container section-2-container">
-    <div class="section-header">
-        <h2>Our <span>Facilities</span></h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-    </div>
 
     <div class="section-2-facility-container">
         <div class="section-2-grid">
             <div class="section-2-card">
                 <div class="section-2-card-icon">
-                    <ion-icon name="bus-outline"></ion-icon>
+                    <ion-icon name="glasses-outline"></ion-icon>
                 </div>
-                <h2>Lorem ipsum dolor</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nostrum?</p>
+                <h2>Super Specialist Doctors</h2>
+                <p>Experienced Team of Specialists & Super Specialist Clinicians & Doctors available at your
+                    service</p>
             </div>
             <div class="section-2-card">
                 <div class="section-2-card-icon">
-                    <ion-icon name="bus-outline"></ion-icon>
+                    <ion-icon name="shield-checkmark-outline"></ion-icon>
                 </div>
-                <h2>Lorem ipsum dolor</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nostrum?</p>
+                <h2>All State & center approvals in place</h2>
+                <p>The only hospital in Lucknow with all the Government's state and center approvals, norms and
+                    procedures
+                    in place</p>
             </div>
 
             <div class="section-2-card">
                 <div class="section-2-card-icon">
                     <ion-icon name="bus-outline"></ion-icon>
                 </div>
-                <h2>Lorem ipsum dolor</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nostrum?</p>
+                <h2>24X7 Ambulance Service</h2>
+                <p>Sewa Hospital & Research Center offers 24X7 Ambulance Service within the vicinity of Lucknow</p>
             </div>
-
-            <div class="section-2-card">
-                <div class="section-2-card-icon">
-                    <ion-icon name="bus-outline"></ion-icon>
-                </div>
-                <h2>Lorem ipsum dolor</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nostrum?</p>
-            </div>
-            <div class="section-2-card">
-                <div class="section-2-card-icon">
-                    <ion-icon name="bus-outline"></ion-icon>
-                </div>
-                <h2>Lorem ipsum dolor</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, nostrum?</p>
-            </div>
-        </div>
-        <div class="section-2-link animate__pulse animate__animated animate__infinite">
-            <a href="#">View all Facilities <ion-icon name="arrow-forward-circle-outline"></ion-icon></a>
         </div>
     </div>
 </div>

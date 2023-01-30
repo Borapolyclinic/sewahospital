@@ -18,7 +18,7 @@
                         Specialities
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">Facilities</a></li>
+                        <li><a class="dropdown-item" href="who-we-are.php#facilities">Facilities</a></li>
                         <li><a class="dropdown-item" href="#">Departments</a></li>
                         <li><a class="dropdown-item" href="#">Special Clinics</a></li>
                         <li><a class="dropdown-item" href="#">Ayushman Bharat Yojna</a></li>
