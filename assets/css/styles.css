@@ -343,10 +343,10 @@
 .speciality-section-2-grid {
   display: flex;
   justify-content: center;
-  align-items: flex-end;
+  align-items: center;
 }
 .speciality-section-2-img {
-  max-width: 100%;
+  max-width: 50%;
   height: auto;
   display: flex;
   justify-content: center;
@@ -355,8 +355,24 @@
 .speciality-section-2-img img {
   width: 100%;
 }
-.speciality-section-2-txt li {
-  font-size: 20px;
+.speciality-section-2-txt {
+  padding: 20px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.speciality-section-2-pill {
+  border: 1px solid #230d6d;
+  border-radius: 100px;
+  margin: 5px;
+}
+.speciality-section-2-pill p {
+  margin: 0;
+  font-size: 16px;
+  text-align: center;
+  line-height: 20px;
+  padding: 10px;
 }
 
 /* =========== FOOTER =========== */
@@ -581,7 +597,18 @@
     flex-direction: column;
   }
   .speciality-section-2-img {
-    margin-bottom: 20px;
+    max-width: 100%;
+  }
+  .speciality-section-2-txt {
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .speciality-section-2-pill {
+    width: 100%;
+  }
+  .speciality-section-2-pill p {
+    padding: 15px;
   }
 
   /* =========== FOOTER =========== */
