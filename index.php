@@ -12,9 +12,9 @@ include('includes/header.php')
 ?>
 <?php include('components/home/section-1.php')
 ?>
-<?php include('components/home/section-6.php')
-?>
 <?php include('components/home/section-2.php')
+?>
+<?php include('components/home/section-6.php')
 ?>
 <?php include('components/home/section-3.php')
 ?>
@@ -22,5 +22,6 @@ include('includes/header.php')
 ?>
 <?php include('components/home/section-5.php')
 ?>
+
 <?php include('includes/footer.php')
 ?>

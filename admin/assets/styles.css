@@ -142,6 +142,11 @@ input::-webkit-inner-spin-button {
   font-size: 20px !important;
   margin: 0;
 }
+.dashboard-header h2 {
+  color: #4123a6 !important;
+  font-weight: 500;
+  margin: 0;
+}
 .dashboard-header p {
   color: #777777 !important;
   font-size: 16px;
