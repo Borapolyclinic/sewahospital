@@ -7,7 +7,7 @@ if ($count > 0) {
 ?>
 <div class="container mt-5">
     <div class="section-header">
-        <h2>Latest <span>Notice</span></h2>
+        <h2>Important <span>Notice</span></h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
     </div>
 

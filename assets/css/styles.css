@@ -429,12 +429,68 @@
   border-radius: 100px;
   margin: 5px;
 }
+.speciality-section-2-pill:hover {
+  background-color: #230d6d;
+  color: #fff;
+  transition: 0.3s all ease-in-out;
+}
 .speciality-section-2-pill p {
   margin: 0;
   font-size: 16px;
   text-align: center;
   line-height: 20px;
   padding: 10px;
+}
+
+/* =========== SPECIALITIES SECTION 3 =========== */
+.department-section {
+  margin-top: 100px;
+  margin-bottom: 150px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.department-image {
+  max-width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.department-image img {
+  width: 100%;
+  border-radius: 10px;
+}
+.department-content-right {
+  padding: 20px;
+}
+.department-content-right h3 {
+  font-weight: 500;
+  font-size: 40px;
+  margin: 0;
+  text-align: right;
+  color: #230d6d;
+}
+.department-content-right p {
+  font-size: 18px;
+  line-height: 25px;
+  text-align: right;
+  color: #404040 !important;
+}
+.department-content-left {
+  padding: 20px;
+}
+.department-content-left h3 {
+  font-weight: 500;
+  font-size: 40px;
+  margin: 0;
+  text-align: left;
+  color: #230d6d;
+}
+.department-content-left p {
+  font-size: 18px;
+  line-height: 25px;
+  text-align: left;
+  color: #404040 !important;
 }
 
 /* =========== FOOTER =========== */
@@ -740,6 +796,46 @@
   .home-section-6-link-row {
     margin-top: 40px;
     padding: 8px;
+  }
+
+  /* =========== SPECIALITIES SECTION 3 =========== */
+  .department-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .department-image {
+    max-width: 100%;
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+  .department-image img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  .department-content-right {
+    padding: 10px;
+    margin-top: 20px;
+  }
+  .department-content-right h3 {
+    font-size: 30px;
+    text-align: center;
+  }
+  .department-content-right p {
+    text-align: justify;
+  }
+  .department-content-left {
+    padding: 20px;
+  }
+  .department-content-left h3 {
+    font-size: 30px;
+    text-align: center;
+    color: #230d6d;
+  }
+  .department-content-left p {
+    text-align: justify;
   }
 
   /* =========== FOOTER =========== */

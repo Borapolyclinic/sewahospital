@@ -8,11 +8,11 @@
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <div class="section-3-card-row">
-                        <a href="#" class="section-3-card">
+                        <a href="specialities.php#urology" class="section-3-card">
                             <img src="assets/images/webp/dep-1-icon.webp" alt="">
                             <p>Urology</p>
                         </a>
-                        <a href="#" class="section-3-card">
+                        <a href="specialities.php#nephralogy" class="section-3-card">
                             <img src="assets/images/webp/dep-2-icon.webp" alt="">
                             <p>Nephralogy</p>
                         </a>
@@ -76,7 +76,7 @@
         <div id="mobileCarousel" class="carousel slide carousel-dark" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <a href="#" class="section-3-card-mobile-container">
+                    <a href="specialities.php#urology" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-1-icon.webp" alt="">
                             <p>Urology</p>
@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <a href="#" class="section-3-card-mobile-container">
+                    <a href="specialities.php#nephralogy" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-2-icon.webp" alt="">
                             <p>Nephralogy</p>
