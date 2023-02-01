@@ -13,9 +13,9 @@
                     <a class="nav-link active" aria-current="page" href="dashboard.php">Dashboard</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#">Dashboard 1</a>
+                    <a class="nav-link" aria-current="page" href="notices.php">Notices</a>
                 </li>
-                <li class="nav-item dropdown">
+                <!-- <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                         aria-expanded="false">
                         Dropdown
@@ -28,7 +28,7 @@
                         </li>
                         <li><a class="dropdown-item" href="#">Something else here</a></li>
                     </ul>
-                </li>
+                </li> -->
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="login/logout.php">Logout</a>
                 </li>
