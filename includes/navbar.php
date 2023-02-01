@@ -12,6 +12,9 @@
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="index.php">Home</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="#">Notices</a>
+                </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                         aria-expanded="false">
@@ -26,7 +29,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" aria-current="page" href="#">Rewards & Recognitions</a>
+                    <a class="nav-link" aria-current="page" href="#">Affiliations</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -38,6 +41,9 @@
                         <li><a class="dropdown-item" href="#">Our Vision</a></li>
                         <li><a class="dropdown-item" href="#">Our Management</a></li>
                     </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" aria-current="page" href="#">Media Gallery</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="contact.php">Connect with us</a>

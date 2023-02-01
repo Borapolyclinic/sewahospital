@@ -8,7 +8,10 @@
             <ion-icon name="apps-outline"></ion-icon>
             <a href="dashboard.php">Dashboard</a>
         </li>
-
+        <li>
+            <ion-icon name="notifications-outline"></ion-icon>
+            <a href="notices.php">Notices</a>
+        </li>
         <li>
             <ion-icon name="log-out-outline"></ion-icon>
             <a href="login/logout.php">Logout</a>

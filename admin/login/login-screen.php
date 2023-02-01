@@ -8,6 +8,10 @@
         </div>
         <?php
         require('includes/db.php');
+        session_start();
+        if (isset($_SESSION["user_contact"])) {
+            header("location:dashboard.php");
+        }
         if (isset($_POST['submit'])) {
             $user_contact = mysqli_real_escape_string($connection, $_POST['user_contact']);
             $user_password = mysqli_real_escape_string($connection, $_POST['user_password']);
