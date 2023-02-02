@@ -37,7 +37,7 @@
                         Who we are
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="#">About Us</a></li>
+                        <li><a class="dropdown-item" href="who-we-are.php">About Us</a></li>
                         <li><a class="dropdown-item" href="#">Our Vision</a></li>
                         <li><a class="dropdown-item" href="#">Our Management</a></li>
                     </ul>

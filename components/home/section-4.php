@@ -6,4 +6,6 @@
         quis cupiditate, quibusdam, facilis ad provident obcaecati laboriosam assumenda, nihil porro eveniet soluta
         atque saepe temporibus voluptate animi natus fugiat. Officia quos sunt repellendus possimus minus voluptatem
         a magnam? Assumenda dolorum quod fugiat, sint maxime optio.</p>
+
+    <a href="who-we-are.php" class="section-4-link">Read More</a>
 </div>
