@@ -65,6 +65,7 @@ input::-webkit-inner-spin-button {
   padding: 40px;
   border-radius: 10px;
   background-color: #fff;
+  z-index: 999;
 }
 .login-form-btn {
   background-color: #230d6d;
@@ -72,13 +73,16 @@ input::-webkit-inner-spin-button {
   padding: 15px;
   color: #fff;
   border-radius: 5px;
+  width: 100%;
 }
 .login-form-btn:hover {
-  background-color: #0e0529;
+  background-color: #0f052e;
   border: 0;
   padding: 15px;
   color: #fff;
   border-radius: 5px;
+  width: 100%;
+  transition: 0.3s all ease-in-out;
 }
 
 /* ============= TOP NAVBAR ============= */

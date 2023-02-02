@@ -6,6 +6,7 @@
             <h1>Welcome!</h1>
             <h2>Enter your Mobile Number and Password to sign-in C.M.S</h2>
         </div>
+
         <?php
         require('includes/db.php');
         session_start();
@@ -51,7 +52,6 @@
                 }
             }
         }
-
         ?>
         <form action="" method="post" class="login-form">
             <div class="form-floating mb-3">
@@ -64,7 +64,9 @@
                     placeholder="Password">
                 <label for="floatingPassword">Password</label>
             </div>
-            <button type="submit" name="submit" class="login-form-btn w-100">LOGIN</button>
+
+            <button type="submit" name="submit" class="login-form-btn">LOGIN</button>
+
         </form>
     </div>
 </div>
