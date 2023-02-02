@@ -9,3 +9,17 @@
         <img src="assets/images/webp/banner-img-1.webp" alt="">
     </div>
 </div>
+<div class="banner-bottom-menu">
+    <a href="index.php#important-notices">Important Notices</a>
+    <a href="index.php#home-speciality">Our Specialities</a>
+    <a href="index.php#tpa">Insurances & TPA's</a>
+    <a href="#">Special Clinics</a>
+    <a href="#">Ayushmaan Bharat Yojna</a>
+</div>
+<div class="banner-bottom-menu-mobile">
+    <a href="index.php#important-notices">Important Notices</a>
+    <a href="index.php#home-speciality-mobile">Our Specialities</a>
+    <a href="index.php#tpa">Insurances & TPA's</a>
+    <a href="#">Special Clinics</a>
+    <a href="#">Ayushmaan Bharat Yojna</a>
+</div>

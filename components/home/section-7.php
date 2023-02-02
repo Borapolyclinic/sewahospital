@@ -1,4 +1,4 @@
-<div class="home-section-7-container">
+<div class="home-section-7-container" id="tpa">
     <div class="container">
         <div class="section-header">
             <h2>Insurances & <span>TPA's</span></h2>

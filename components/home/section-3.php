@@ -1,4 +1,4 @@
-<div class="section-3-container section-3-desktop-view">
+<div class="section-3-container section-3-desktop-view" id="home-speciality">
     <div class="container">
         <div class="section-header">
             <h2>Our <span>Specialities</span></h2>
@@ -67,7 +67,7 @@
 </div>
 
 <!-- =================== SECTION 2 MOBILE VIEW =================== -->
-<div class="section-3-container section-3-mobile-view">
+<div class="section-3-container section-3-mobile-view" id="home-speciality-mobile">
     <div class="container">
         <div class="section-header">
             <h2>Our <span>Specialities</span></h2>

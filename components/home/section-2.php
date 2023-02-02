@@ -1,5 +1,4 @@
 <div class="container section-2-container">
-
     <div class="section-2-facility-container">
         <div class="section-2-grid">
             <div class="section-2-card">

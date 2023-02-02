@@ -137,6 +137,32 @@
   color: #fff;
   transition: 0.3s all ease-in-out;
 }
+.banner-bottom-menu {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  background-color: #fff;
+}
+.banner-bottom-menu a {
+  text-decoration: none;
+  color: #404040;
+  flex: 1;
+  background-color: #fff;
+  border: 1px solid #e7e7e7;
+  text-align: center;
+  padding: 10px;
+  font-size: 15px;
+  margin: 0;
+}
+.banner-bottom-menu a:hover {
+  background-color: #230d6d;
+  color: #fff;
+  transition: 0.3s all ease-in-out;
+}
+.banner-bottom-menu-mobile {
+  display: none;
+}
 
 /* =========== HOME SECTION 2 =========== */
 .section-2-container {
@@ -686,8 +712,40 @@
   .home-section-1-button {
     display: none;
   }
+  .banner-bottom-menu {
+    display: none;
+  }
+  .banner-bottom-menu-mobile {
+    display: initial;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    padding: 10px;
+  }
+  .banner-bottom-menu-mobile a {
+    text-decoration: none;
+    width: 100%;
+    color: #404040;
+    text-align: center;
+    border: 1px solid #e7e7e7;
+    padding: 15px;
+    margin: 2px;
+    border-radius: 10px;
+    font-size: 18px;
+  }
+  .banner-bottom-menu-mobile a:hover {
+    background-color: #230d6d;
+    color: #fff;
+    transition: 0.3s all ease-in-out;
+  }
 
   /* =========== HOME SECTION 2 =========== */
+  .section-2-container {
+    margin-top: 0 !important;
+    margin-bottom: 100px;
+  }
   .section-2-card {
     width: 100%;
   }
@@ -737,6 +795,12 @@
     line-height: 20px;
   }
 
+  /* =========== HOME SECTION 6 =========== */
+  .home-section-6 {
+    margin-top: 50px;
+    margin-bottom: 100px;
+  }
+
   /* =========== SPECIALITIES SECTION 1 =========== */
   .section-1-banner {
     background-repeat: no-repeat;
@@ -782,6 +846,9 @@
   .home-section-5-img img {
     width: 100%;
     height: auto;
+  }
+  .home-section-5-txt {
+    padding: 15px;
   }
   .home-section-5-txt h3 {
     font-size: 50px;
@@ -838,6 +905,11 @@
   .home-section-6-link-row {
     margin-top: 40px;
     padding: 8px;
+  }
+
+  /* =========== HOME SECTION 7 =========== */
+  .home-section-7-container {
+    margin-top: 100px;
   }
 
   /* =========== SPECIALITIES SECTION 3 =========== */

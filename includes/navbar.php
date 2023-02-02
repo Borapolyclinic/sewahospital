@@ -25,7 +25,7 @@
                         <li><a class="dropdown-item" href="specialities.php#departments">Departments</a></li>
                         <li><a class="dropdown-item" href="#">Special Clinics</a></li>
                         <li><a class="dropdown-item" href="#">Ayushman Bharat Yojna</a></li>
-                        <li><a class="dropdown-item" href="#">Insurances & TPA</a></li>
+                        <li><a class="dropdown-item" href="specialities.php#insurance-&-tpa">Insurances & TPA</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
@@ -37,7 +37,7 @@
                         Who we are
                     </a>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="who-we-are.php">About Us</a></li>
+                        <li><a class="dropdown-item" href="#">About Us</a></li>
                         <li><a class="dropdown-item" href="#">Our Vision</a></li>
                         <li><a class="dropdown-item" href="#">Our Management</a></li>
                     </ul>
