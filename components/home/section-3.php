@@ -2,7 +2,7 @@
     <div class="container">
         <div class="section-header">
             <h2>Our <span>Specialities</span></h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            <p>Click on any department below to know more.</p>
         </div>
         <div id="carouselExampleAutoplaying" class="carousel slide carousel-dark" data-bs-ride="carousel">
             <div class="carousel-inner">
@@ -16,15 +16,15 @@
                             <img src="assets/images/webp/dep-2-icon.webp" alt="">
                             <p>Nephralogy</p>
                         </a>
-                        <a href="#" class="section-3-card">
+                        <a href="specialities.php#general-surgery-department" class="section-3-card">
                             <img src="assets/images/webp/dep-3-icon.webp" alt="">
                             <p>General Surgery</p>
                         </a>
-                        <a href="#" class="section-3-card">
+                        <a href="specialities.php#gastro" class="section-3-card">
                             <img src="assets/images/webp/dep-4-icon.webp" alt="">
                             <p>Gastro Surgery</p>
                         </a>
-                        <a href="#" class="section-3-card">
+                        <a href="specialities.php#ortho" class="section-3-card">
                             <img src="assets/images/webp/dep-5-icon.webp" alt="">
                             <p>Orthopedics</p>
                         </a>
@@ -32,19 +32,19 @@
                 </div>
                 <div class="carousel-item">
                     <div class="section-3-card-row">
-                        <a href="#" class="section-3-card">
+                        <a href="specialities.php#obs" class="section-3-card">
                             <img src="assets/images/webp/dep-6-icon.webp" alt="">
                             <p>OBS & Gynecology</p>
                         </a>
-                        <a href="#" class="section-3-card">
+                        <a href="specialities.php#general-medicine" class="section-3-card">
                             <img src="assets/images/webp/dep-7-icon.webp" alt="">
                             <p>General Medicine</p>
                         </a>
-                        <a href="#" class="section-3-card">
+                        <a href="specialities.php#ent" class="section-3-card">
                             <img src="assets/images/webp/dep-8-icon.webp" alt="">
                             <p>ENT</p>
                         </a>
-                        <a href="#" class="section-3-card">
+                        <a href="specialities.php#opthalmic" class="section-3-card">
                             <img src="assets/images/webp/dep-9-icon.webp" alt="">
                             <p>Ophthalmic</p>
                         </a>
@@ -94,7 +94,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <a href="#" class="section-3-card-mobile-container">
+                    <a href="specialities.php#general-surgery-department" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-3-icon.webp" alt="">
                             <p>General Surgery</p>
@@ -103,7 +103,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <a href="#" class="section-3-card-mobile-container">
+                    <a href="specialities.php#gastro" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-4-icon.webp" alt="">
                             <p>Gastro Surgery</p>
@@ -112,7 +112,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <a href="#" class="section-3-card-mobile-container">
+                    <a href="specialities.php#ortho" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-5-icon.webp" alt="">
                             <p>Orthopedics</p>
@@ -121,7 +121,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <a href="#" class="section-3-card-mobile-container">
+                    <a href="specialities.php#obs" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-6-icon.webp" alt="">
                             <p>OBS & Gynecology</p>
@@ -130,7 +130,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <a href="#" class="section-3-card-mobile-container">
+                    <a href="specialities.php#general-medicine" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-7-icon.webp" alt="">
                             <p>General Medicine</p>
@@ -139,7 +139,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <a href="#" class="section-3-card-mobile-container">
+                    <a href="specialities.php#ent" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-8-icon.webp" alt="">
                             <p>ENT</p>
@@ -148,7 +148,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <a href="#" class="section-3-card-mobile-container">
+                    <a href="specialities.php#opthalmic" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-9-icon.webp" alt="">
                             <p>Ophthalmic</p>

@@ -18,6 +18,8 @@ include('includes/header.php')
 ?>
 <?php include('components/home/section-3.php')
 ?>
+<?php include('components/home/section-7.php')
+?>
 <?php include('components/home/section-4.php')
 ?>
 <?php include('components/home/section-5.php')
