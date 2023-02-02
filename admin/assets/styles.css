@@ -73,6 +73,13 @@ input::-webkit-inner-spin-button {
   color: #fff;
   border-radius: 5px;
 }
+.login-form-btn:hover {
+  background-color: #33139f;
+  border: 0;
+  padding: 15px;
+  color: #fff;
+  border-radius: 5px;
+}
 
 /* ============= TOP NAVBAR ============= */
 .navbar-brand {
