@@ -38,6 +38,10 @@
     <!-- =========== ANIMATE.CSS =========== -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
+    <!-- =============== CUSTOM JS =============== -->
+    <script type="text/javascript" src="assets/custom.js"></script>
+
+
 </head>
 
 <body>

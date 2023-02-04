@@ -24,6 +24,7 @@ include('includes/header.php')
 ?>
 <?php include('components/home/section-5.php')
 ?>
-
+<?php include('components/home/section-8.php')
+?>
 <?php include('includes/footer.php')
 ?>

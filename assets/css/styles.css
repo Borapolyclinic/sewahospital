@@ -89,6 +89,12 @@
   background-color: #fff;
   margin-top: -105px;
 }
+.carousel-control-prev#homepage-banner-prev {
+  margin-left: 0 !important;
+}
+.carousel-control-next#homepage-banner-next {
+  margin-right: 0 !important;
+}
 .home-section-1-caption {
   font-size: 16px !important;
   margin: 0;
@@ -227,6 +233,9 @@
 .section-3-container {
   padding-top: 100px;
 }
+.carousel-inner {
+  margin-top: 50px;
+}
 .section-3-card-row {
   display: flex;
   flex-wrap: wrap;
@@ -265,6 +274,18 @@
   border-radius: 10px;
   transition: 0.3s all ease-in-out;
   color: #e15613;
+}
+.carousel-control-prev {
+  margin-left: -100px;
+}
+.carousel-control-next {
+  margin-right: -100px;
+}
+.carousel-control-prev#department-carousel-arrow-prev {
+  margin-left: 0 !important;
+}
+.carousel-control-next#department-carousel-arrow-next {
+  margin-right: 0 !important;
 }
 
 /* =========== HOME SECTION 4 =========== */
@@ -393,6 +414,13 @@
   padding: 3px;
   color: #fff;
   margin-right: 20px;
+  border: 0;
+}
+.home-section-6-link-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
 }
 .home-section-6-link-row {
   margin-top: 20px;
@@ -458,6 +486,11 @@
   text-align: center;
   font-size: 18px;
   line-height: 20px;
+}
+
+/* =========== HOME SECTION 8 =========== */
+.section-8-container {
+  margin-top: 100px;
 }
 
 /* =========== SPECIALITIES SECTION 1 =========== */
@@ -575,6 +608,42 @@
   text-align: left;
   color: #404040 !important;
 }
+
+/* =========== SPECIALITIES SECTION 4 =========== */
+.tpa-card-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 50px;
+}
+.tpa-card {
+  width: 220px;
+  height: 300px;
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  background-color: #fff;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 5px;
+  padding: 10px;
+}
+.tpa-card img {
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.tpa-card p {
+  padding: 5px;
+  text-align: center;
+  margin-top: 5px;
+  line-height: 20px;
+  font-size: 18px;
+}
+
+/* =========== NOTICES SECTION 2 =========== */
 
 /* =========== FOOTER =========== */
 .footer-menu {
@@ -800,6 +869,13 @@
     align-items: center;
     text-decoration: none;
   }
+  .carousel-control-prev {
+    margin-left: 0;
+  }
+  .carousel-control-next {
+    margin-right: 0;
+  }
+
   /* =========== HOME SECTION 4 =========== */
   .section-4-container {
     padding: 10px;

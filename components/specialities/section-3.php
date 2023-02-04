@@ -27,13 +27,13 @@
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#departmentUrology"
-                    data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#departmentUrology" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#departmentUrology"
-                    data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#departmentUrology" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -54,13 +54,13 @@
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#departmentNephralogy"
-                    data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#departmentNephralogy" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#departmentNephralogy"
-                    data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#departmentNephralogy" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -101,13 +101,13 @@
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#departmentGeneral"
-                    data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#departmentGeneral" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#departmentGeneral"
-                    data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#departmentGeneral" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -129,13 +129,13 @@
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#departmentGastro"
-                    data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#departmentGastro" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#departmentGastro"
-                    data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#departmentGastro" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -176,13 +176,13 @@
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#orthoDepartment"
-                    data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#orthoDepartment" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#orthoDepartment"
-                    data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#orthoDepartment" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -203,13 +203,13 @@
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#obsDepartment"
-                    data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#obsDepartment" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#obsDepartment"
-                    data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#obsDepartment" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -250,13 +250,13 @@
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#generalMedicine"
-                    data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#generalMedicine" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#generalMedicine"
-                    data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#generalMedicine" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -276,13 +276,13 @@
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#entDepartment"
-                    data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#entDepartment" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#entDepartment"
-                    data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#entDepartment" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -322,13 +322,13 @@
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#opthalmicMedicine"
-                    data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#opthalmicMedicine" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#opthalmicMedicine"
-                    data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#opthalmicMedicine" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
