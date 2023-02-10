@@ -7,11 +7,11 @@
 </div>
 
 <div class="specialities-section-5-container">
-    <div class="specialities-section-5-img-container col-md-6">
+    <div class="specialities-section-5-img-container col-md-4">
         <img src="assets/images/webp/pmjay-main.webp" alt="">
     </div>
 
-    <div class="section-5-card-row col-md-6">
+    <div class="section-5-card-row col-md-8">
         <div class="specialities-section-5-card">
             <p id="section-5-label">What is <span>Ayushman Bharat </span>Pradhan Mantri Jan Arogya Yojana?</p>
             <p>PM-JAY provide cover of Rs. 5 lakhs per family per year for secondary and tertiary care hospitalization
