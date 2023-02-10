@@ -12,9 +12,9 @@
                 <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="index.php">Home</a>
                 </li>
-                <li class="nav-item">
+                <!-- <li class="nav-item">
                     <a class="nav-link" aria-current="page" href="notices.php">Notices</a>
-                </li>
+                </li> -->
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                         aria-expanded="false">
@@ -24,7 +24,8 @@
                         <li><a class="dropdown-item" href="specialities.php#facilities">Facilities</a></li>
                         <li><a class="dropdown-item" href="specialities.php#departments">Departments</a></li>
                         <li><a class="dropdown-item" href="#">Special Clinics</a></li>
-                        <li><a class="dropdown-item" href="#">Ayushman Bharat Yojna</a></li>
+                        <li><a class="dropdown-item" href="specialities.php#ayushman-bharat">Ayushman Bharat Yojna</a>
+                        </li>
                         <li><a class="dropdown-item" href="specialities.php#insurance-&-tpa">Insurances & TPA</a></li>
                     </ul>
                 </li>

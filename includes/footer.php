@@ -40,19 +40,15 @@
     </div>
 </div>
 
-
-
-
-
 <!-- =============== DEVELOPER FOOTER =============== -->
 <div class="developer-footer">
-    <p>&#169; All Rights Reserved | Designed & Developed by <a href="https://onlynus.com" target="_blank"
-            rel="noopener noreferrer">Onlyn</a></p>
+    <p>&#169; All Rights Reserved | Designed & Developed by <a href="https://onlynus.com" target="_blank" rel="noopener noreferrer">Onlyn</a></p>
 </div>
 
+
+
 <!-- =============== BOOTSTRAP =============== -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
 </script>
 
 <!-- =============== IONICONS =============== -->
