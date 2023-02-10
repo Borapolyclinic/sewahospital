@@ -47,17 +47,21 @@
             <div id="departmentUrology" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-1.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-1.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-2.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-2.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#departmentUrology" data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#departmentUrology" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button" data-bs-target="#departmentUrology" data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#departmentUrology" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -70,17 +74,21 @@
             <div id="departmentNephralogy" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-3.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-3.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-4.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-4.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#departmentNephralogy" data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#departmentNephralogy" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button" data-bs-target="#departmentNephralogy" data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#departmentNephralogy" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -144,17 +152,21 @@
             <div id="departmentGeneral" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-1.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-1.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-2.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-2.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#departmentGeneral" data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#departmentGeneral" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button" data-bs-target="#departmentGeneral" data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#departmentGeneral" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -168,17 +180,21 @@
             <div id="departmentGastro" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-3.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-3.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-4.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-4.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#departmentGastro" data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#departmentGastro" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button" data-bs-target="#departmentGastro" data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#departmentGastro" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -186,44 +202,71 @@
         </div>
         <div class="col-md-8 department-content-left">
             <h3>Gastro Department</h3>
-            <p id="department-content">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit itaque
-                eligendi minima
-                consequatur
-                quia. Quisquam, repellat! Provident autem ratione perspiciatis expedita quae esse odit eaque, rerum
-                quasi
-                nisi sint delectus mollitia, incidunt voluptate atque repellat, reprehenderit eius! Laborum, provident
-                alias. Saepe odio ipsam libero ea. Aliquam quibusdam, rerum tenetur perferendis modi saepe repudiandae
-                recusandae atque aspernatur architecto optio. Enim minus sunt odio fuga ad.</p>
+            <p id="department-content">Gastroenterology is the study of the normal function and diseases of the
+                esophagus, stomach, small
+                intestine, colon and rectum, pancreas, gallbladder, bile ducts and liver.</p>
+            <p id="department-content">Gastroenteritis is inflammation (irritation) of your intestines. People usually
+                call it a “stomach bug” or “stomach flu,” even though it’s not limited to just influenza. Although most
+                people report stomach pain, gastroenteritis can also involve your small intestines and colon.</p>
         </div>
     </div>
 
     <div class="department-section" id="ortho">
         <div class="col-md-8 department-content-right">
             <h3>Orthopedics Department</h3>
-            <p id="department-content">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit itaque
-                eligendi minima
-                consequatur
-                quia. Quisquam, repellat! Provident autem ratione perspiciatis expedita quae esse odit eaque, rerum
-                quasi
-                nisi sint delectus mollitia, incidunt voluptate atque repellat, reprehenderit eius! Laborum, provident
-                alias. Saepe odio ipsam libero ea. Aliquam quibusdam, rerum tenetur perferendis modi saepe repudiandae
-                recusandae atque aspernatur architecto optio. Enim minus sunt odio fuga ad.</p>
+            <p id="department-content">Orthopedics is a branch of medicine that focuses on the care of the
+                musculoskeletal system. This system consists of muscles, bones, joints, ligaments, and tendons.</p>
+            <p id="department-content">A person who specializes in orthopedics is known as an orthopedist. Orthopedists
+                use surgical and
+                nonsurgical approaches to treat musculoskeletal issues, such as sports injuries, joint pain, and back
+                problems.</p>
+            <hr>
+            <div class="department-content-right-inner-row">
+                <div class="col-md-6">
+                    <ul>
+                        <li>Orthopedic Disorders like Arthritis, Osteoporosis</li>
+                        <li>Fractures & Trauma</li>
+                        <li>Treatment of Ligament Injuries and sports injuries</li>
+                        <li>Infections & Osteomyelitis</li>
+                        <li>Limb Reconstruction and Deformities Correction</li>
+                        <li>Arthroscopy & Arthroplasty</li>
+                        <li>Pediatric Orthopedics</li>
+                        <li>Rehabilitation & Physiotherapy</li>
+                        <li>Sports Medicine</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <p>Orthopedic Services at Sewa Hospital takes care of all kinds of trauma and disorders of the
+                        musculo-skeletal system. The 24 Hour Emergency department receives and takes care of all major
+                        and minor trauma and other orthopedic emergencies</p>
+                    <p>Orthopedic Department is managed by senior consultants each of them having many years of
+                        experience in various fields of orthopedic surgery treating all kinds of-skeletal problems
+                        ranging from arthritis to sports injuries, complex fractures, bone tumors and childhood
+                        conditions like CTEV. The department specializes in latest techniques and treatments such as
+                        minimally invasive surgery, cartilage and bone transplantation, spine surgery and limb sparing
+                        surgery.</p>
+                </div>
+            </div>
         </div>
         <div class="col-md-4 department-image">
             <div id="orthoDepartment" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-1.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-1.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-2.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-2.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#orthoDepartment" data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#orthoDepartment" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button" data-bs-target="#orthoDepartment" data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#orthoDepartment" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -236,62 +279,93 @@
             <div id="obsDepartment" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-3.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-3.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-4.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-4.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#obsDepartment" data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#obsDepartment" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button" data-bs-target="#obsDepartment" data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#obsDepartment" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
             </div>
         </div>
         <div class="col-md-8 department-content-left">
-            <h3>OBS & Gynecology Department</h3>
-            <p id="department-content">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit itaque
-                eligendi minima
-                consequatur
-                quia. Quisquam, repellat! Provident autem ratione perspiciatis expedita quae esse odit eaque, rerum
-                quasi
-                nisi sint delectus mollitia, incidunt voluptate atque repellat, reprehenderit eius! Laborum, provident
-                alias. Saepe odio ipsam libero ea. Aliquam quibusdam, rerum tenetur perferendis modi saepe repudiandae
-                recusandae atque aspernatur architecto optio. Enim minus sunt odio fuga ad.</p>
+            <h3>Obstetrics & Gynecology Department</h3>
+            <p id="department-content">Obstetrics and gynecology are medical specialties that focus on two different
+                aspects of the female reproductive system. </p>
+            <p id="department-content">Obstetrics deals with the care of the pregnant women, the unborn baby, labor and
+                delivery and the immediate period following childbirth. The obstetrician ensures that mother and child
+                get the best prenatal care to ensure labor and delivery is accomplished without complications and that
+                should intervention be needed, it is done quickly and safely.</p>
+            <p id="department-content">Gynecology deals with any ailment concerning the reproductive organs; uterus,
+                fallopian tubes, cervix, ovaries and vagina. A gynecologist may also treat related problems in the
+                bowel, bladder and urinary system since these are closely related to female reproductive organs.</p>
+            <hr>
+            <div class="department-content-right-inner-row">
+                <div class="col-md-6">
+                    <p>Department of Obstetrics & Gynaecology at Sewa Hospital provides round the clock comprehensive
+                        services through a group of qualified and experienced Obstetricians and Gynaecologist with
+                        utmost personalized care. Well equipped lab or rooms ensure correct and comprehensive care to
+                        mothers during delivery.</p>
+                </div>
+                <div class="col-md-6">
+                    <h4>We Offer</h4>
+                    <ul>
+                        <li>Antennal</li>
+                        <li>Perinatal & Postnatal Care</li>
+                        <li>Antenatal Education Program</li>
+                        <li>Fetal Assessment</li>
+                        <li>Painless Delivery</li>
+                        <li>Management of High Risk Pregnancies</li>
+                        <li>Management & Treatment of all gynaecology disorders</li>
+                    </ul>
+                </div>
+
+            </div>
         </div>
     </div>
 
     <div class="department-section" id="general-medicine">
         <div class="col-md-8 department-content-right">
             <h3>General Medicine Department</h3>
-            <p id="department-content">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit itaque
-                eligendi minima
-                consequatur
-                quia. Quisquam, repellat! Provident autem ratione perspiciatis expedita quae esse odit eaque, rerum
-                quasi
-                nisi sint delectus mollitia, incidunt voluptate atque repellat, reprehenderit eius! Laborum, provident
-                alias. Saepe odio ipsam libero ea. Aliquam quibusdam, rerum tenetur perferendis modi saepe repudiandae
-                recusandae atque aspernatur architecto optio. Enim minus sunt odio fuga ad.</p>
+            <p id="department-content">Internal Medicine Services are managed by a team of internists who are dedicated
+                to excellence in comprehensive patient care, community obligations and professional growth. We strive to
+                enhance the quality and effectiveness of healthcare by fostering excellence and professionalism in the
+                practise of medicine with scholarity inquisitive approach to clinical problem-solving.</p>
+            <p id="department-content">We treat Infectious Diseases, Chronic Diseases, Medical Emergencies, Septicemia &
+                Septic Shock Associated
+                Multi-Organ Failure, Tropical Infections like Complicated Malaria, Dengue, Chickenguniya, Fever of
+                Unknown Origin, Management of Drug Overdoses & Poisoning, Systematic Ailments.</p>
         </div>
         <div class="col-md-4 department-image">
             <div id="generalMedicine" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-1.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-1.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-2.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-2.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#generalMedicine" data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#generalMedicine" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button" data-bs-target="#generalMedicine" data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#generalMedicine" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -303,17 +377,21 @@
             <div id="entDepartment" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-3.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-3.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-4.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-4.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#entDepartment" data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#entDepartment" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button" data-bs-target="#entDepartment" data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#entDepartment" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
@@ -321,43 +399,78 @@
         </div>
         <div class="col-md-8 department-content-left">
             <h3>ENT Department</h3>
-            <p id="department-content">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit itaque
-                eligendi minima
-                consequatur
-                quia. Quisquam, repellat! Provident autem ratione perspiciatis expedita quae esse odit eaque, rerum
-                quasi
-                nisi sint delectus mollitia, incidunt voluptate atque repellat, reprehenderit eius! Laborum, provident
-                alias. Saepe odio ipsam libero ea. Aliquam quibusdam, rerum tenetur perferendis modi saepe repudiandae
-                recusandae atque aspernatur architecto optio. Enim minus sunt odio fuga ad.</p>
+            <p id="department-content">An Ear, Nose, and Throat Doctors (ENT) specializes in everything having to do
+                with those parts of the body. They’re also called otolaryngologists.</p>
+            <hr>
+            <div class="department-content-right-inner-row">
+                <div class="col-md-6">
+                    <p>Department of ENT at Sewa Hospital provides comprehensive diagnostic & therapeutic services in
+                        the field of ENT related Disorders.</p>
+                </div>
+                <div class="col-md-6">
+                    <h4>We offer</h4>
+                    <ul>
+                        <li>Hearing</li>
+                        <li>The Adenoids and tonsils</li>
+                        <li>The Thyroid</li>
+                        <li>The Sinuses</li>
+                        <li>The Larynx</li>
+                        <li>Ear Surgeries</li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
     <div class="department-section" id="opthalmic">
         <div class="col-md-8 department-content-right">
             <h3>Opthalmic Department</h3>
-            <p id="department-content">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Reprehenderit itaque
-                eligendi minima
-                consequatur
-                quia. Quisquam, repellat! Provident autem ratione perspiciatis expedita quae esse odit eaque, rerum
-                quasi
-                nisi sint delectus mollitia, incidunt voluptate atque repellat, reprehenderit eius! Laborum, provident
-                alias. Saepe odio ipsam libero ea. Aliquam quibusdam, rerum tenetur perferendis modi saepe repudiandae
-                recusandae atque aspernatur architecto optio. Enim minus sunt odio fuga ad.</p>
+            <p id="department-content">Opthalmology department at Sewa Hospital is providing eye care ranging from
+                routine eye examinations to complex & microscopic surgical procedures. The department also performs
+                refractions, prescribes contact lenses and performs other tests to help maintain good vision. Our
+                Opthalmic Department is fully quipped with all the latest equipments for diagnostic and rapeutic
+                purposes.</p>
+            <hr>
+            <div class="department-content-right-inner-row">
+                <div class="col-md-6">
+                    <h4>We offer</h4>
+                    <ul>
+                        <li>Comprehensive Eye Care with State of the Art Equipment</li>
+                        <li>LID/Lachrymal Apparatus Surgeries-Endonasal DCR</li>
+                        <li>Phaco Emulsification with Intra Ocular Lens Implants for Cataract</li>
+                        <li>Glaucoma workup & Surgeries</li>
+                        <li>Treatment of Retinal Disorders and Squint Surgeries</li>
+                    </ul>
+                </div>
+                <div class="col-md-6">
+                    <ul>
+                        <li>Refractive Surgeries to treat Myopia</li>
+                        <li>Hypermetropia</li>
+                        <li>Intraocular Laser Surgery-YAG</li>
+                        <li>Ocular Trauma Surgery-Orbital Decompression</li>
+                        <li>Intra-Vitrial Injections</li>
+                    </ul>
+                </div>
+            </div>
         </div>
         <div class="col-md-4 department-image">
             <div id="opthalmicMedicine" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-1.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-1.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-2.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-2.webp"
+                            alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
-                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#opthalmicMedicine" data-bs-slide="prev">
+                <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
+                    data-bs-target="#opthalmicMedicine" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
-                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button" data-bs-target="#opthalmicMedicine" data-bs-slide="next">
+                <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
+                    data-bs-target="#opthalmicMedicine" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
