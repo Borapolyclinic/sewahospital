@@ -1,5 +1,3 @@
-function openNotice() {
-  $(document).ready(function () {
-    $("#noticeModal").modal("show");
-  });
-}
+$(document).ready(function () {
+  $("#cookieModal").modal("show");
+});

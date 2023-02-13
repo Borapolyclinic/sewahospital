@@ -30,6 +30,9 @@
 .section-header p {
   margin: 0;
 }
+.cookie-modal {
+  align-items: flex-end !important;
+}
 
 /* =========== UNDER MAINTENANCE =========== */
 .under-maintenance {
@@ -735,6 +738,24 @@
   color: #e15613;
 }
 
+/* =========== SPECIAL CLINIC =========== */
+.special-clinic-table th {
+  font-size: 18px;
+}
+.special-clinic-table span {
+  font-size: 15px;
+  color: #e15613;
+  font-weight: 400;
+}
+.special-clinic-check {
+  color: green !important;
+  font-size: 25px;
+}
+.special-clinic-cross {
+  color: red !important;
+  font-size: 25px;
+}
+
 /* =========== FOOTER =========== */
 .footer-menu {
   bottom: 0 !important;
@@ -1185,6 +1206,25 @@
 
   .section-5-card-row {
     flex-direction: column;
+  }
+
+  /* =========== SPECIAL CLINIC =========== */
+  .special-clinic-table th {
+    font-size: 18px;
+    line-height: 20px;
+  }
+  .special-clinic-table span {
+    font-size: 14px;
+    color: #e15613;
+    font-weight: 400;
+  }
+  .special-clinic-check {
+    color: green !important;
+    font-size: 25px;
+  }
+  .special-clinic-cross {
+    color: red !important;
+    font-size: 25px;
   }
 
   /* =========== FOOTER =========== */

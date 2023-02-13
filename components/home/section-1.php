@@ -13,13 +13,13 @@
     <a href="index.php#important-notices">Important Notices</a>
     <a href="index.php#home-speciality">Our Specialities</a>
     <a href="index.php#tpa">Insurances & TPA's</a>
-    <a href="#">Special Clinics</a>
+    <a href="specialities.php#special-clinics">Special Clinics</a>
     <a href="index.php#pm-jay">Ayushmaan Bharat Yojna</a>
 </div>
 <div class="banner-bottom-menu-mobile">
     <a href="index.php#important-notices">Important Notices</a>
     <a href="index.php#home-speciality-mobile">Our Specialities</a>
     <a href="index.php#tpa">Insurances & TPA's</a>
-    <a href="#">Special Clinics</a>
+    <a href="specialities.php#special-clinics">Special Clinics</a>
     <a href="index.php#pm-jay">Ayushmaan Bharat Yojna</a>
 </div>

@@ -38,9 +38,6 @@
     <!-- =========== ANIMATE.CSS =========== -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
-    <!-- =============== CUSTOM JS =============== -->
-    <script type="text/javascript" src="assets/custom.js"></script>
-
     <!-- ========== JQUERY ========== -->
     <script src="https://code.jquery.com/jquery-3.6.3.js"
         integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
@@ -49,3 +46,4 @@
 </head>
 
 <body>
+    <?php include('includes/cookie.php') ?>
