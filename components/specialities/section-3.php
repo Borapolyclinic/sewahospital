@@ -351,11 +351,11 @@
             <div id="generalMedicine" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-1.webp"
+                        <img src="assets/images/webp/department-15.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-2.webp"
+                        <img src="assets/images/webp/department-16.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
@@ -456,11 +456,11 @@
             <div id="OphthalmicMedicine" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-1.webp"
+                        <img src="assets/images/webp/department-17.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-2.webp"
+                        <img src="assets/images/webp/department-18.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
