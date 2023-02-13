@@ -152,11 +152,11 @@
             <div id="departmentGeneral" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-1.webp"
+                        <img src="assets/images/webp/department-5.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-2.webp"
+                        <img src="assets/images/webp/department-6.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
@@ -180,11 +180,11 @@
             <div id="departmentGastro" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-3.webp"
+                        <img src="assets/images/webp/department-11.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-4.webp"
+                        <img src="assets/images/webp/department-12.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
@@ -252,11 +252,11 @@
             <div id="orthoDepartment" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-1.webp"
+                        <img src="assets/images/webp/department-13.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-2.webp"
+                        <img src="assets/images/webp/department-14.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
@@ -279,11 +279,11 @@
             <div id="obsDepartment" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-3.webp"
+                        <img src="assets/images/webp/department-9.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-4.webp"
+                        <img src="assets/images/webp/department-10.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
@@ -377,11 +377,11 @@
             <div id="entDepartment" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-3.webp"
+                        <img src="assets/images/webp/department-7.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-4.webp"
+                        <img src="assets/images/webp/department-8.webp"
                             alt="Urology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
@@ -421,13 +421,13 @@
             </div>
         </div>
     </div>
-    <div class="department-section" id="opthalmic">
+    <div class="department-section" id="ophthalmic">
         <div class="col-md-8 department-content-right">
-            <h3>Opthalmic Department</h3>
-            <p id="department-content">Opthalmology department at Sewa Hospital is providing eye care ranging from
+            <h3>Ophthalmic Department</h3>
+            <p id="department-content">Ophthalmology department at Sewa Hospital is providing eye care ranging from
                 routine eye examinations to complex & microscopic surgical procedures. The department also performs
                 refractions, prescribes contact lenses and performs other tests to help maintain good vision. Our
-                Opthalmic Department is fully quipped with all the latest equipments for diagnostic and rapeutic
+                Ophthalmic Department is fully quipped with all the latest equipments for diagnostic and rapeutic
                 purposes.</p>
             <hr>
             <div class="department-content-right-inner-row">
@@ -453,7 +453,7 @@
             </div>
         </div>
         <div class="col-md-4 department-image">
-            <div id="opthalmicMedicine" class="carousel slide carousel-dark" data-bs-ride="carousel">
+            <div id="OphthalmicMedicine" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="assets/images/webp/department-1.webp"
@@ -465,12 +465,12 @@
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
-                    data-bs-target="#opthalmicMedicine" data-bs-slide="prev">
+                    data-bs-target="#OphthalmicMedicine" data-bs-slide="prev">
                     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Previous</span>
                 </button>
                 <button class="carousel-control-next" id="department-carousel-arrow-next" type="button"
-                    data-bs-target="#opthalmicMedicine" data-bs-slide="next">
+                    data-bs-target="#OphthalmicMedicine" data-bs-slide="next">
                     <span class="carousel-control-next-icon" aria-hidden="true"></span>
                     <span class="visually-hidden">Next</span>
                 </button>
