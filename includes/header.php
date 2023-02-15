@@ -47,3 +47,6 @@
 
 <body>
     <?php include('includes/cookie.php') ?>
+    <button onclick="topFunction()" id="myBtn" title="Go to top">
+        <ion-icon name="caret-up-circle-outline"></ion-icon>
+    </button>

@@ -6,7 +6,7 @@
 </div>
 <div class="container">
     <div class="who-we-are-section-1-row">
-        <div class="col-md-6 who-we-are-section-1-txt">
+        <div class="col-md-6 who-we-are-section-1-txt order-lg-0 order-1">
             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum eveniet sunt, provident, ab laborum nam
                 nulla
                 eius iusto beatae, voluptates dolore iste dolores? Unde inventore maxime et minima ex, est fuga tenetur
@@ -37,7 +37,7 @@
                 Nostrum fuga animi sint aperiam facere cum omnis temporibus perspiciatis eveniet? A, recusandae?</p>
         </div>
 
-        <div class="col-md-6 who-we-are-section-1-img-grid">
+        <div class="col-md-6 who-we-are-section-1-img-grid order-lg-1 order-0">
             <img src="assets/images/temp/square-1.webp" alt="">
             <img src="assets/images/temp/square-2.webp" alt="">
             <img src="assets/images/temp/rec-1.webp" alt="">

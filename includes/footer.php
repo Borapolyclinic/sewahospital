@@ -12,12 +12,12 @@
 
             <li>
                 <p class="footer-label">Contact</p>
-                <a href="tel:+919876543210">+91 9876543210</a>
+                <a href="tel:+916389000615">+91 6389000615</a>
             </li>
 
             <li>
                 <p class="footer-label">Email</p>
-                <a href="mailto:abc@xyz.com">abc@xyz.com</a>
+                <a href="mailto:info@sewahospitallko.com">abc@xyz.com</a>
             </li>
         </ul>
     </div>

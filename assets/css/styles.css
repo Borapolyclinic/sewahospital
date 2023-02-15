@@ -33,6 +33,28 @@
 .cookie-modal {
   align-items: flex-end !important;
 }
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: 1px solid #e15613;
+  outline: none;
+  background-color: #00000000;
+  color: #e15613;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 10px;
+  font-size: 30px;
+  text-align: center;
+}
+
+#myBtn:hover {
+  background-color: #e15613;
+  color: #fff;
+  transition: 0.3s all ease-in-out;
+}
 
 /* =========== UNDER MAINTENANCE =========== */
 .under-maintenance {
@@ -793,9 +815,6 @@
   justify-content: center;
   align-items: center;
 }
-.who-we-are-section-1-txt {
-  padding: 10px;
-}
 .who-we-are-section-1-txt p {
   font-size: 18px;
   text-align: justify;
@@ -805,11 +824,18 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  padding: 10px;
 }
 .who-we-are-section-1-img-grid img {
   flex: 1 1 100px !important;
   height: 280px;
   margin: 10px;
+}
+
+/* =========== WHO WE ARE SECTION 1 =========== */
+.who-we-are-section-2 {
+  margin-top: 100px;
+  margin-bottom: 50px;
 }
 
 /* =========== FOOTER =========== */
@@ -1288,6 +1314,34 @@
   .special-clinic-cross {
     color: red !important;
     font-size: 25px;
+  }
+
+  /* =========== WHO WE ARE SECTION 1 =========== */
+  .who-we-are-section-1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .who-we-are-section-1-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .who-we-are-section-1-txt p {
+    font-size: 18px;
+    text-align: justify;
+  }
+  .who-we-are-section-1-img-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+  .who-we-are-section-1-img-grid img {
+    width: 100%;
+    height: auto;
+    margin: 10px;
   }
 
   /* =========== FOOTER =========== */
