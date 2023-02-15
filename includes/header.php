@@ -8,9 +8,9 @@
 
     <!-- =============== SEO =============== -->
     <meta name="keywords"
-        content="best hospital in lucknow, ayushman bharat, best orthopedic doctors near me, best eye doctor near me, free vaccination centre near me">
+        content="best hospital in lucknow, ayushman bharat, best orthopedic doctors near me, best eye doctor near me, doctors">
     <meta name="description"
-        content="Looking for the best hospital in Lucknow? Sewa Hospital offers Ayushman bharat services, best orthopedic services, best nephralogy services etc. in Lucknow.">
+        content="Looking for the best hospital in Lucknow? Sewa Hospital offers ayushman bharat services, best orthopedic services, best nephralogy services etc. in Lucknow.">
 
     <!-- =============== TITLE =============== -->
     <title><?php echo $title ?></title>
