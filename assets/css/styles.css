@@ -104,15 +104,18 @@
   height: auto;
 }
 .nav-link {
-  font-size: 16px;
+  font-size: 18px;
 }
 /* =========== HOME SECTION 1 =========== */
+.home-section-1-container {
+  margin-top: -200px;
+  max-width: 100%;
+}
 .home-section-1 {
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: #fff;
-  margin-top: -135px;
 }
 .carousel-control-prev#homepage-banner-prev {
   margin-left: 0 !important;
@@ -709,6 +712,9 @@
 }
 
 /* =========== SPECIALITIES SECTION 5 =========== */
+.specialities-section-5 {
+  margin-top: 100px !important;
+}
 .specialities-section-5-container {
   background: rgb(35, 13, 109);
   background: linear-gradient(
@@ -939,10 +945,14 @@
   .navbar {
     background-color: #fff !important;
     width: 100%;
-    border-bottom: 0;
+    border-bottom: 1px solid #e7e7e7;
   }
 
   /* =========== HOME SECTION 1 =========== */
+  .home-section-1-container {
+    margin-top: -50px !important;
+    max-width: 100%;
+  }
   .home-section-1 {
     display: flex;
     justify-content: center;
@@ -950,7 +960,6 @@
     top: initial;
     position: initial;
     max-width: 100%;
-    margin-top: 0;
   }
   .home-section-1-caption {
     display: none;

@@ -1,4 +1,4 @@
-<div class="container mt-5 mb-5" id="ayushman-bharat">
+<div class="container mt-5 mb-5 specialities-section-5" id="ayushman-bharat">
     <div class="section-header">
         <h2>Ayushman Bharat Pradhan <span>Mantri Jan Arogya Yojana</span></h2>
         <p> 'Prime Minister's People's Health Scheme' or PM-JAY; also referred to as Ayushman Bharat National Health
