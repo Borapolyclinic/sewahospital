@@ -5,7 +5,7 @@
     </div>
 
     <div class="department-section" id="urology">
-        <div class="col-md-8 department-content-right">
+        <div class="col-md-8 department-content-right order-lg-0 order-1">
             <h3>Urology Department</h3>
             <p id="department-content">Urology is a part of health care that deals with diseases of the male and female
                 urinary tract (kidneys,
@@ -43,7 +43,7 @@
             </div>
 
         </div>
-        <div class="col-md-4 department-image">
+        <div class="col-md-4 department-image order-lg-1 order-0">
             <div id="departmentUrology" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -128,7 +128,7 @@
     </div>
 
     <div class="department-section" id="general-surgery-department">
-        <div class="col-md-8 department-content-right">
+        <div class="col-md-8 department-content-right order-lg-0 order-1">
             <h3>General Surgery Department</h3>
             <p id="department-content">General surgery, as the name denotes, encompasses a broad spectrum of operative
                 procedures with regard to the diagnosis and treatment of injuries and diseases in any region of the
@@ -148,7 +148,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4 department-image">
+        <div class="col-md-4 department-image order-lg-1 order-0">
             <div id="departmentGeneral" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -212,7 +212,7 @@
     </div>
 
     <div class="department-section" id="ortho">
-        <div class="col-md-8 department-content-right">
+        <div class="col-md-8 department-content-right order-lg-0 order-1">
             <h3>Orthopedics Department</h3>
             <p id="department-content">Orthopedics is a branch of medicine that focuses on the care of the
                 musculoskeletal system. This system consists of muscles, bones, joints, ligaments, and tendons.</p>
@@ -248,7 +248,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4 department-image">
+        <div class="col-md-4 department-image order-lg-1 order-0">
             <div id="orthoDepartment" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -336,7 +336,7 @@
     </div>
 
     <div class="department-section" id="general-medicine">
-        <div class="col-md-8 department-content-right">
+        <div class="col-md-8 department-content-right order-lg-0 order-1">
             <h3>General Medicine Department</h3>
             <p id="department-content">Internal Medicine Services are managed by a team of internists who are dedicated
                 to excellence in comprehensive patient care, community obligations and professional growth. We strive to
@@ -347,7 +347,7 @@
                 Multi-Organ Failure, Tropical Infections like Complicated Malaria, Dengue, Chickenguniya, Fever of
                 Unknown Origin, Management of Drug Overdoses & Poisoning, Systematic Ailments.</p>
         </div>
-        <div class="col-md-4 department-image">
+        <div class="col-md-4 department-image order-lg-1 order-0">
             <div id="generalMedicine" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -422,7 +422,7 @@
         </div>
     </div>
     <div class="department-section" id="ophthalmic">
-        <div class="col-md-8 department-content-right">
+        <div class="col-md-8 department-content-right order-lg-0 order-1">
             <h3>Ophthalmic Department</h3>
             <p id="department-content">Ophthalmology department at Sewa Hospital is providing eye care ranging from
                 routine eye examinations to complex & microscopic surgical procedures. The department also performs
@@ -452,7 +452,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4 department-image">
+        <div class="col-md-4 department-image order-lg-1 order-0">
             <div id="OphthalmicMedicine" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">

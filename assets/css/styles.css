@@ -756,6 +756,62 @@
   font-size: 25px;
 }
 
+/* =========== WHO WE ARE SECTION BANNER =========== */
+.who-we-are-section-banner {
+  max-width: 100%;
+  background-image: url("../images/webp/bg-banner-2.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100% !important;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+}
+.who-we-are-section-banner h1 {
+  margin: 0;
+  font-weight: 600;
+  color: #fff;
+}
+.who-we-are-section-banner p {
+  margin: 0;
+  font-size: 24px;
+  text-align: center;
+  line-height: 25px;
+  color: #fff;
+}
+
+/* =========== WHO WE ARE SECTION 1 =========== */
+.who-we-are-section-1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.who-we-are-section-1-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.who-we-are-section-1-txt {
+  padding: 10px;
+}
+.who-we-are-section-1-txt p {
+  font-size: 18px;
+  text-align: justify;
+}
+.who-we-are-section-1-img-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.who-we-are-section-1-img-grid img {
+  flex: 1 1 100px !important;
+  height: 280px;
+  margin: 10px;
+}
+
 /* =========== FOOTER =========== */
 .footer-menu {
   bottom: 0 !important;
@@ -1112,6 +1168,13 @@
   /* =========== HOME SECTION 7 =========== */
   .home-section-7-container {
     margin-top: 100px;
+  }
+  /* =========== HOME SECTION 8 =========== */
+  .section-8-container {
+    margin-bottom: 50px;
+  }
+  .home-section-8-row {
+    flex-direction: column;
   }
 
   /* =========== SPECIALITIES SECTION 3 =========== */

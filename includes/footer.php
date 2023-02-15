@@ -46,6 +46,10 @@
             rel="noopener noreferrer">Onlyn</a></p>
 </div>
 
+<!-- =============== SOCIAL MEDIA =============== -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-63ec72c3c28568d1"></script>
+
+<!-- =============== CUSTOM JS =============== -->
 <script src="assets/custom.js"></script>
 
 <!-- =============== BOOTSTRAP =============== -->
