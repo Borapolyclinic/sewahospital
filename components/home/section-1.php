@@ -13,7 +13,7 @@
                 </div>
             </div>
         </div>
-        <div class="carousel-item">
+        <!-- <div class="carousel-item">
             <div class="home-section-1">
                 <div class="col-md-6 home-section-1-txt">
                     <p class="home-section-1-caption">A Unit of Bora Polyclinic</p>
@@ -25,8 +25,8 @@
                     <img src="assets/images/webp/banner-img-1.webp" alt="">
                 </div>
             </div>
-        </div>
-        <div class="carousel-item">
+        </div> -->
+        <!-- <div class="carousel-item">
             <div class="home-section-1">
                 <div class="col-md-6 home-section-1-txt">
                     <p class="home-section-1-caption">A Unit of Bora Polyclinic</p>
@@ -38,7 +38,7 @@
                     <img src="assets/images/webp/banner-img-1.webp" alt="">
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
     <button class="carousel-control-prev" id="homepage-banner-prev" type="button" data-bs-target="#carouselExample"
         data-bs-slide="prev">
