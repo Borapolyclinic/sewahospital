@@ -17,7 +17,7 @@
 
             <li>
                 <p class="footer-label">Email</p>
-                <a href="mailto:info@sewahospitallko.com">abc@xyz.com</a>
+                <a href="mailto:info@sewahospitallko.com">info@sewahospitallko.com</a>
             </li>
         </ul>
     </div>

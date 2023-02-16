@@ -43,7 +43,8 @@ input::-webkit-inner-spin-button {
   align-items: flex-start;
   flex-direction: column;
   padding: 50px;
-  margin-top: 100px;
+  margin-top: 250px;
+  margin-left: 150px;
 }
 .login-form-header {
   margin-bottom: 20px;
@@ -98,60 +99,99 @@ input::-webkit-inner-spin-button {
 }
 
 /* ============= SIDE NAVBAR ============= */
-.side-navbar {
-  background-color: #230d6d;
-  position: absolute;
-  width: 18%;
-  top: 0;
-  bottom: 0;
-  z-index: 999;
-}
-.side-navbar-brand {
-  max-width: 100%;
-  margin-bottom: 20px;
-  border-bottom: 1px solid #4123a6;
+.menu-open-btn {
+  width: 80px;
+  height: 80px;
+  border: 1px solid #e7e7e7;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px;
+
+  color: #4123a6;
+  font-size: 40px;
 }
-.side-navbar-brand img {
+.menu-open-btn:hover {
+  background-color: #12233f;
+  color: #fff;
+  transition: 0.3s all ease-in-out;
+  border-bottom-right-radius: 10px;
+}
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #12233f;
+  overflow-x: hidden;
+  padding-top: 60px;
+  transition: 0.5s;
+}
+.side-nav-menu {
+  margin-top: 30px;
+}
+.side-nav-menu li {
+  list-style: none;
+}
+.sidenav-link {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.sidenav-link ion-icon {
+  color: #818181;
+  font-size: 20px;
+}
+.sidenav a {
+  padding: 10px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+  font-weight: 300;
+  margin-left: 15px;
+}
+.sidenav-brand {
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-bottom: 1px solid #818181;
+}
+.sidenav-brand img {
   width: 80%;
   height: auto;
+  margin-top: 20px;
+  margin-bottom: 40px;
 }
-.side-nav-list li {
-  list-style: none;
-  margin-bottom: 20px;
-  font-size: 16px;
+.sidenav a:hover {
+  color: #e15613;
 }
-.side-nav-list a {
-  text-decoration: none;
-  color: #fff;
-  margin: 0;
-}
-.side-nav-list ion-icon {
-  color: #fff;
-  margin-right: 5px;
-  font-size: 18px;
-}
-
-/* ============= DASHBOARD HEADER ============= */
-.dashboard-container {
+.sidenav .closebtn {
   position: absolute;
-  left: 0;
   top: 0;
-  margin-left: 280px;
-  margin-top: 80px;
-  width: 78%;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+/* ============= DASHBOARD HEADER ============= */
+#main {
+  transition: margin-left 0.5s;
+  padding: 20px;
 }
 .dashboard-header {
-  margin-bottom: 15px;
+  margin-bottom: 20px;
+  width: 100%;
 }
 .dashboard-header h1 {
   color: #4123a6 !important;
   font-weight: 400;
   font-size: 20px !important;
   margin: 0;
+  text-align: left;
 }
 .dashboard-header h2 {
   color: #4123a6 !important;
@@ -239,7 +279,7 @@ input::-webkit-inner-spin-button {
 
 /* ============= ADMIN FOOTER ============= */
 .admin-footer {
-  position: fixed;
+  position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
@@ -303,19 +343,18 @@ input::-webkit-inner-spin-button {
   }
 
   /* ============= SIDE NAVBAR ============= */
+  .menu-open-btn {
+    width: 50px;
+    height: 50px;
+  }
   .side-navbar {
     background-color: #230d6d;
     display: none;
   }
 
   /* ============= DASHBOARD HEADER ============= */
-  .dashboard-container {
-    position: initial;
-    left: initial;
-    top: initial;
-    margin-left: 0;
-    margin-top: 0;
-    padding: 20px;
+  .dashboard-header {
+    margin-bottom: 50px;
     width: 100%;
   }
 
@@ -337,5 +376,31 @@ input::-webkit-inner-spin-button {
   .notice-disabled {
     margin-left: 10px;
     margin-top: 5px;
+  }
+
+  /* ============= ADMIN FOOTER ============= */
+  .admin-footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    padding: 10px;
+    border-top: 1px solid #e7e7e7e7;
+    background-color: #fff;
+    z-index: 0;
+  }
+  .admin-footer p {
+    margin: 0;
+    color: #000;
+    font-size: 14px;
+    text-align: center;
+  }
+  .admin-footer a {
+    text-decoration: none;
+    color: #e15613;
   }
 }
