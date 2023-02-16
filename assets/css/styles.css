@@ -15,6 +15,11 @@
 }
 
 /* =========== COMMON ELEMENTS =========== */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
 .section-header {
   margin-bottom: 10px;
   margin-top: 10px;
@@ -869,6 +874,44 @@
   color: #e15613;
 }
 
+/* =========== CONTACT SECTION =========== */
+.contact-section-1-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contact-section-1-graphic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+}
+.contact-section-1-graphic lottie-player {
+  width: 400px;
+  height: 400px;
+}
+.contact-section-form {
+  margin-top: 40px;
+  margin-bottom: 50px;
+  border: 1px solid #e7e7e7;
+  border-radius: 10px;
+  padding: 30px;
+}
+.contact-section-1-btn {
+  background-color: #fff;
+  width: 350px;
+  border-radius: 5px;
+  padding: 10px;
+  color: #230d6d;
+  border: 1px solid #230d6d;
+  font-size: 18px;
+}
+.contact-section-1-btn:hover {
+  background-color: #230d6d;
+  color: #fff;
+  transition: 0.3s all ease-in-out;
+}
+
 /* =========== FOOTER =========== */
 .footer-menu {
   bottom: 0 !important;
@@ -1370,12 +1413,47 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    padding: 10px;
   }
   .who-we-are-section-1-img-grid img {
     width: 100%;
     height: auto;
     margin: 10px;
+  }
+
+  /* =========== WHO WE ARE SECTION 2 =========== */
+  .who-we-are-section-2-row {
+    flex-direction: column;
+  }
+  .who-we-are-section-2-card {
+    flex: 1 1 100px;
+    height: 350px;
+    align-items: flex-start;
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  /* =========== CONTACT SECTION =========== */
+  .contact-section-1-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .contact-section-1-graphic lottie-player {
+    width: 200px;
+    height: 200px;
+  }
+  .contact-section-form {
+    width: 100% !important;
+  }
+  .contact-section-1-btn {
+    background-color: #fff;
+    width: 100%;
+    border-radius: 5px;
+    padding: 10px;
+    color: #230d6d;
+    border: 1px solid #230d6d;
+    font-size: 18px;
   }
 
   /* =========== FOOTER =========== */
