@@ -838,10 +838,35 @@
   margin: 10px;
 }
 
-/* =========== WHO WE ARE SECTION 1 =========== */
+/* =========== WHO WE ARE SECTION 2 =========== */
 .who-we-are-section-2 {
   margin-top: 100px;
   margin-bottom: 50px;
+}
+.who-we-are-section-2-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.who-we-are-section-2-card {
+  flex: 1 1 100px;
+  height: 250px;
+  border: 1px solid #e7e7e7e7;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+}
+.who-we-are-section-2-card img {
+  width: 20%;
+  margin: 20px;
+}
+.who-we-are-section-2-card-inner-text h3 {
+  font-weight: 600;
+  margin: 0;
+  color: #e15613;
 }
 
 /* =========== FOOTER =========== */
