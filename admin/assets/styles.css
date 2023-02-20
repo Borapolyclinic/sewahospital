@@ -100,22 +100,24 @@ input::-webkit-inner-spin-button {
 
 /* ============= SIDE NAVBAR ============= */
 .menu-open-btn {
-  width: 80px;
+  width: 100%;
   height: 80px;
   border: 1px solid #e7e7e7;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
-
   color: #4123a6;
   font-size: 40px;
 }
-.menu-open-btn:hover {
-  background-color: #12233f;
-  color: #fff;
-  transition: 0.3s all ease-in-out;
-  border-bottom-right-radius: 10px;
+.menu-open-btn ion-icon {
+  color: #12233f;
+  margin-left: 20px;
 }
+.menu-open-btn ion-icon:hover {
+  color: #12233f;
+  margin-left: 20px;
+}
+
 .sidenav {
   height: 100%;
   width: 0;
@@ -196,8 +198,14 @@ input::-webkit-inner-spin-button {
 .dashboard-header h2 {
   color: #4123a6 !important;
   font-weight: 500;
-  margin: 0;
+  margin: 0 !important;
 }
+.dashboard-header h4 {
+  color: #4123a6 !important;
+  font-weight: 500;
+  margin: 0 !important;
+}
+
 .dashboard-header p {
   color: #777777 !important;
   font-size: 16px;
@@ -207,12 +215,10 @@ input::-webkit-inner-spin-button {
 /* ============= DASHBOARD NOTICE SECTION ============= */
 .dashboard-db-notice-section {
   border-radius: 5px;
+  border: 1px solid #e7e7e7;
   margin-top: 10px;
   padding: 20px;
   background-color: #fff;
-  -webkit-box-shadow: 5px 5px 20px -10px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 5px 5px 20px -10px rgba(0, 0, 0, 0.75);
-  box-shadow: 5px 5px 20px -10px rgba(0, 0, 0, 0.75);
 }
 .dashboard-notice-bar {
   display: flex;
@@ -263,7 +269,7 @@ input::-webkit-inner-spin-button {
   border: 1px solid #e7e7e7;
   border-radius: 10px;
   padding: 20px;
-  width: 50%;
+  width: 100%;
 }
 .add-notice-btn {
   background-color: #e15613;
@@ -275,6 +281,19 @@ input::-webkit-inner-spin-button {
 .add-notice-btn:hover {
   background-color: #ab410e;
   transition: 0.3s all ease-in-out;
+}
+
+/* ============= VIEW NOTICE ============= */
+.notice-form-row {
+  width: 100% !important;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.view-notice-section {
+  border: 1px solid #e7e7e7;
+  border-radius: 10px;
+  padding: 20px;
 }
 
 /* ============= ADMIN FOOTER ============= */
@@ -344,8 +363,12 @@ input::-webkit-inner-spin-button {
 
   /* ============= SIDE NAVBAR ============= */
   .menu-open-btn {
-    width: 50px;
+    width: 100%;
     height: 50px;
+    border: 1px solid #e7e7e7;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
   }
   .side-navbar {
     background-color: #230d6d;
@@ -376,6 +399,17 @@ input::-webkit-inner-spin-button {
   .notice-disabled {
     margin-left: 10px;
     margin-top: 5px;
+  }
+
+  /* ============= ADD NOTICE ============= */
+  .add-notice-form {
+    width: 100%;
+    margin-bottom: 50px;
+  }
+
+  /* ============= VIEW NOTICE ============= */
+  .notice-form-row {
+    flex-direction: column;
   }
 
   /* ============= ADMIN FOOTER ============= */

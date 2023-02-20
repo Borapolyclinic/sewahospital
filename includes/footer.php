@@ -46,11 +46,12 @@
             rel="noopener noreferrer">Onlyn</a></p>
 </div>
 
+<!-- =============== CUSTOM JS =============== -->
+<script type="text/javascript" src="assets/custom.js"></script>
+<script type="text/javascript" src="assets/modal.js"></script>
+
 <!-- =============== SOCIAL MEDIA =============== -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-63ec72c3c28568d1"></script>
-
-<!-- =============== CUSTOM JS =============== -->
-<script src="assets/custom.js"></script>
 
 <!-- =============== BOOTSTRAP =============== -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"

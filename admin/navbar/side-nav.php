@@ -19,6 +19,10 @@
             <a href="#">Visitors</a>
         </li>
         <li class="sidenav-link">
+            <ion-icon name="images-outline"></ion-icon>
+            <a href="#">Upload Media</a>
+        </li>
+        <li class="sidenav-link">
             <ion-icon name="log-out-outline"></ion-icon>
             <a href="login/logout.php">Logout</a>
         </li>
