@@ -882,6 +882,35 @@ input::-webkit-inner-spin-button {
   color: #e15613;
 }
 
+/* =========== WHO WE ARE SECTION 3 =========== */
+.who-we-are-section-3 {
+  background-color: #e1e1e1e1;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.who-we-are-section-3-card {
+  height: 300px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.who-we-are-section-3-lottie {
+  width: 300px;
+  height: 300px;
+}
+.who-we-are-card-txt {
+  margin-left: 15px;
+}
+.who-we-are-card-txt h4 {
+  font-weight: bold;
+}
+
 /* =========== CONTACT SECTION =========== */
 .contact-section-1-row {
   display: flex;

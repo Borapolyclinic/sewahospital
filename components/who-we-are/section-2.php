@@ -1,5 +1,5 @@
 <div class="container who-we-are-section-2" id="why-choose-us">
-    <div class=" section-header">
+    <div class="section-header">
         <h2>Why <span>Choose</span> Us</h2>
         <p>A Legacy of Excellence!</p>
     </div>
