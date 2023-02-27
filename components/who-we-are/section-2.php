@@ -9,20 +9,19 @@
         <div class="col-md-6 who-we-are-section-2-card">
             <img src="assets/images/temp/icon-1.png" alt="">
             <div class="who-we-are-section-2-card-inner-text">
-                <h3>Lorem ipsum dolor sit.</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam eius magni modi corrupti fugit
-                    possimus laborum, consectetur repudiandae officiis recusandae eum odit iusto quasi provident dolore
-                    blanditiis quas quos quae natus magnam aut fugiat! Alias nisi unde architecto magnam veniam.</p>
+                <h3>Cost-effective medical care</h3>
+                <p>We provide free consultation to patients in our Weekly Free Clinics like Diabetes Clinic, Preventive
+                    Health Check-Ups, Homeopathy Clinic & many more and also free consultations to
+                    economically challenged patients on every Wednesday</p>
             </div>
         </div>
 
         <div class="col-md-6 who-we-are-section-2-card">
             <img src="assets/images/temp/icon-1.png" alt="">
             <div class="who-we-are-section-2-card-inner-text">
-                <h3>Lorem ipsum dolor sit.</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam eius magni modi corrupti fugit
-                    possimus laborum, consectetur repudiandae officiis recusandae eum odit iusto quasi provident dolore
-                    blanditiis quas quos quae natus magnam aut fugiat! Alias nisi unde architecto magnam veniam.</p>
+                <h3>State of the Art Technology</h3>
+                <p>We are equipped with the latest state of the art Technology equipment’s to perform procedures and
+                    diagnosis requiring high level of precision.</p>
             </div>
         </div>
     </div>
@@ -31,20 +30,21 @@
         <div class="col-md-6 who-we-are-section-2-card">
             <img src="assets/images/temp/icon-1.png" alt="">
             <div class="who-we-are-section-2-card-inner-text">
-                <h3>Lorem ipsum dolor sit.</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam eius magni modi corrupti fugit
-                    possimus laborum, consectetur repudiandae officiis recusandae eum odit iusto quasi provident dolore
-                    blanditiis quas quos quae natus magnam aut fugiat! Alias nisi unde architecto magnam veniam.</p>
+                <h3>Comprehensive Care Delivery Model</h3>
+                <p>We deliver comprehensive care in over 10+ specialities by adopting a service-oriented delivery model,
+                    Sewa Hospital & Research Centre provides cost-effective medical care, with an uncompromising
+                    commitment to its core purpose</p>
             </div>
         </div>
 
         <div class="col-md-6 who-we-are-section-2-card">
             <img src="assets/images/temp/icon-1.png" alt="">
             <div class="who-we-are-section-2-card-inner-text">
-                <h3>Lorem ipsum dolor sit.</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam eius magni modi corrupti fugit
-                    possimus laborum, consectetur repudiandae officiis recusandae eum odit iusto quasi provident dolore
-                    blanditiis quas quos quae natus magnam aut fugiat! Alias nisi unde architecto magnam veniam.</p>
+                <h3>A trusted brand name</h3>
+                <p>With more than 30 years of legacy and a trusted name in the business, we are continuously learning to
+                    create
+                    an advanced and sustainable healthcare system that results in collective growth of both the
+                    employees and the organization.</p>
             </div>
         </div>
     </div>
