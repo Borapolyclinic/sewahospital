@@ -7,40 +7,32 @@
 <div class="container">
     <div class="who-we-are-section-1-row">
         <div class="col-md-6 who-we-are-section-1-txt order-lg-0 order-1">
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Illum eveniet sunt, provident, ab laborum nam
-                nulla
-                eius iusto beatae, voluptates dolore iste dolores? Unde inventore maxime et minima ex, est fuga tenetur
-                quo
-                iure
-                voluptatum neque ad necessitatibus! Non labore repellat assumenda culpa nobis iusto molestiae. Quidem
-                iusto
-                expedita, cum ducimus aliquid, quo adipisci est officiis recusandae amet eveniet nihil quasi at
-                laboriosam?
-                Maiores, totam accusantium. Eveniet aliquid, perspiciatis veniam modi, placeat magni consectetur
-                mollitia
-                necessitatibus quisquam quod repudiandae at commodi. Consequuntur error itaque repudiandae ea mollitia,
-                minus
-                quasi vel, maiores et molestias inventore cumque enim iure quod sequi impedit!</p>
 
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam laudantium a, vero quaerat corrupti aut
-                error
-                natus beatae quidem! Animi tenetur assumenda reprehenderit blanditiis! Earum eaque, adipisci libero, ut
-                dignissimos nisi rem veniam tenetur nulla recusandae beatae hic quos temporibus veritatis reiciendis
-                ullam
-                praesentium! Voluptas laboriosam assumenda alias placeat soluta, consectetur dolorem vel voluptates
-                quasi
-                sunt
-                illo necessitatibus, at veniam eligendi sint minima incidunt eius, debitis delectus sed dicta nostrum
-                quas.
-                Porro molestias distinctio hic doloribus aut quos odio libero mollitia quis. Odio assumenda eos sit
-                praesentium.
-                Nostrum fuga animi sint aperiam facere cum omnis temporibus perspiciatis eveniet? A, recusandae?</p>
+            <p>Sewa Hospital & Research Centre, established in the year 1998, has been providing super specialty
+                services ever since. Spread across 10 acres of beautifully landscaped area in Sewa Nagar, Sitapur Road,
+                the hospital provisions 100 beds, ICU centre, NICU, PBU, Dialysis, X-Ray, 24X7 Ambulance Facility and
+                with a team of more than 80+ doctors with specialty in Orthopaedic Department, Gynaecology Department,
+                Pathology Department, Urology Department, Neurology Departments, General Surgery and Trauma treatments.
+            </p>
+
+            <p>
+                Availability of Medical & Paramedical staff round the clock for availing the services at any given time.
+                The hospital is equipped with a 24hrs Café, Laundry and comfortable stay arrangement for the family
+                personal of the patients. Sewa Hospital & Research Centre is equipped with the latest state of the art
+                Technology equipment’s to perform procedures and diagnosis requiring high level of precision.
+            </p>
+
+            <p>We, at Sewa Hospital & Research Centre provide free consultation to patients in our Weekly Free Clinics
+                and also free consultations to financially challenged patients on every Wednesday. The Hospital is
+                recognized by Central Government Health Services and many other departments to enable their employees to
+                avail medical facilities of International Standards.</p>
         </div>
 
         <div class="col-md-6 who-we-are-section-1-img-grid order-lg-1 order-0">
-            <img src="assets/images/temp/square-1.webp" alt="">
-            <img src="assets/images/temp/square-2.webp" alt="">
-            <img src="assets/images/temp/rec-1.webp" alt="">
+            <img src="assets/images/temp/square-1.webp" alt="About Sewa Hospital & Research Centre Image ">
+            <img src="assets/images/temp/square-2.webp" alt="Sewa Hospital & Research Centre Facilities Image">
+            <img src="assets/images/temp/rec-1.webp"
+                alt="Sewa Hospital & Research Centre is equipped with the latest state of the art Technology equipment’s ">
         </div>
     </div>
 </div>
