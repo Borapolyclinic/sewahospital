@@ -8,7 +8,7 @@
     <div class="who-we-are-section-1-row">
         <div class="col-md-6 who-we-are-section-1-txt order-lg-0 order-1">
 
-            <p>Sewa Hospital & Research Centre, established in the year 1998, has been providing super specialty
+            <p>Sewa Hospital & Research Centre, established in the year 1993, has been providing super specialty
                 services ever since. Spread across 10 acres of beautifully landscaped area in Sewa Nagar, Sitapur Road,
                 the hospital provisions 100 beds, ICU centre, NICU, PBU, Dialysis, X-Ray, 24X7 Ambulance Facility and
                 with a team of more than 80+ doctors with specialty in Orthopaedic Department, Gynaecology Department,
