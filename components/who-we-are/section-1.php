@@ -23,9 +23,11 @@
             </p>
 
             <p>We, at Sewa Hospital & Research Centre provide free consultation to patients in our Weekly Free Clinics
-                and also free consultations to financially challenged patients on every Wednesday. The Hospital is
+                and also free consultations to economically challenged patients on every Wednesday. The Hospital is
                 recognized by Central Government Health Services and many other departments to enable their employees to
-                avail medical facilities of International Standards.</p>
+                avail medical facilities of International Standards. We deliver comprehensive care in over 10+
+                specialities. Adopting a service-oriented delivery model, Sewa Hospital & Research Centre provides
+                cost-effective medical care, with an uncompromising commitment to its core purpose</p>
         </div>
 
         <div class="col-md-6 who-we-are-section-1-img-grid order-lg-1 order-0">
