@@ -82,21 +82,21 @@
         </div>
         <div class="tpa-card">
             <div>
-                <img src="assets/images/webp/tpa/tpa-12.webp" alt="">
+                <img src="assets/images/webp/tpa/tpa-13.webp" alt="">
             </div>
             <p>Safeway Insurance (TPA) Pvt. Ltd.</p>
         </div>
         <div class="tpa-card">
             <div>
-                <img src="assets/images/webp/tpa/tpa-12.webp" alt="">
+                <img src="assets/images/webp/tpa/tpa-14.webp" alt="">
             </div>
             <p>Ericson Insurance (TPA) Pvt. Ltd.</p>
         </div>
-        <div class="tpa-card">
+        <!-- <div class="tpa-card">
             <div>
-                <img src="assets/images/webp/tpa/tpa-12.webp" alt="">
+                <img src="assets/images/webp/tpa/tpa-15.webp" alt="">
             </div>
             <p>Vision Digital Insurance (TPA) Pvt. Ltd.</p>
-        </div>
+        </div> -->
     </div>
 </div>
