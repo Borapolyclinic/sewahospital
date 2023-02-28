@@ -1,7 +1,7 @@
 <div class="container mt-5 mb-5" id="facilities">
     <div class="section-header">
         <h2>Our <span>Facilities</span></h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <p>Facilities offered by Sewa Hospital & Research Centre</p>
     </div>
 
     <div class="speciality-section-2-grid">

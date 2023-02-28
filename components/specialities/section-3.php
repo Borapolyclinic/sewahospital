@@ -1,7 +1,7 @@
 <div class="container mt-5 mb-5" id="departments">
     <div class="section-header">
         <h2>Our <span>Departments</span></h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <p>Provisions offered by Sewa Hospital & Research Centre</p>
     </div>
 
     <div class="department-section" id="urology">
