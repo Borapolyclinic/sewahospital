@@ -41,7 +41,7 @@
                         <li><a class="dropdown-item" href="who-we-are.php">About Us</a></li>
                         <li><a class="dropdown-item" href="who-we-are.php#why-choose-us">Why Choose Us</a></li>
                         <li><a class="dropdown-item" href="who-we-are.php#our-vision">Our Vision</a></li>
-                        <li><a class="dropdown-item" href="#">Our Management</a></li>
+                        <li><a class="dropdown-item" href="who-we-are.php#our-management">Our Management</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">

@@ -34,7 +34,7 @@ if ($count > 0) {
 <div class="container mt-5 home-section-6" id="important-notices">
     <div class="section-header">
         <h2>Important <span>Notice</span></h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        <p>Check out all the latest updates from our Hospital</p>
     </div>
 
     <div class="home-section-6-container">

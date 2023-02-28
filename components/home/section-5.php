@@ -14,7 +14,7 @@
                 determination
                 and courage...</p>
 
-            <a href="#" class="home-section-5-link">Read More</a>
+            <a href="who-we-are.php#our-management" class="home-section-5-link">Read More</a>
         </div>
     </div>
 </div>
