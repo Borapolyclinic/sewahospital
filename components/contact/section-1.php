@@ -45,21 +45,21 @@
                 )";
                     $result = mysqli_query($connection, $query);
                     if ($result) {
-                        // $sewa_email = "info@sewahospitallko.com";
-                        // $email_subject = "Website Visitor!";
-                        // $email_body = "Full Name: " . $contact_name . "<br>";
-                        // $email_body .= "Contact Number: " . $contact_number . "<br>";
-                        // $email_body .= "Email Address: " . $contact_email . "<br><br>";
-                        // $email_body .= "Details: " . $contact_comment . "<br>";
+                        $sewa_email = "info@sewahospitallko.com";
+                        $email_subject = "Website Visitor!";
+                        $email_body = "Full Name: " . $contact_name . "<br>";
+                        $email_body .= "Contact Number: " . $contact_number . "<br>";
+                        $email_body .= "Email Address: " . $contact_email . "<br><br>";
+                        $email_body .= "Details: " . $contact_comment . "<br>";
 
-                        // $headers = "MIME-Version: 1.0" . "\r\n";
-                        // $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
-                        // mail(
-                        //     $sewa_email,
-                        //     $email_subject,
-                        //     $email_body,
-                        //     $headers
-                        // );
+                        $headers = "MIME-Version: 1.0" . "\r\n";
+                        $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+                        mail(
+                            $sewa_email,
+                            $email_subject,
+                            $email_body,
+                            $headers
+                        );
                     ?>
             <div class="alert alert-success mb-3 mt-3" role="alert">
                 Thank you! We have recieved you request. Someone from our team will connect with you shortly.
