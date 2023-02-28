@@ -23,11 +23,12 @@
     </div>
     <div class="menu-list">
         <ul class="footer-nav">
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Who we are</a></li>
-            <li><a href="#">Our History</a></li>
-            <li><a href="#">Events</a></li>
-            <li><a href="#">Connect With Us</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="specialities.php#facilities">Specialities</a></li>
+            <li><a href="#">Affiliations</a></li>
+            <li><a href="who-we-are.php">Who we are</a></li>
+            <li><a href="#">Media Gallery</a></li>
+            <li><a href="contact.php">Connect with us</a></li>
         </ul>
     </div>
     <div class="menu-list">
