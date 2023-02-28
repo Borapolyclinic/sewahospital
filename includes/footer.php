@@ -6,13 +6,13 @@
             <li>
                 <p class="footer-label">Address</p>
                 <a href="https://goo.gl/maps/WoVYx3gSTtsX1sA48" target="_blank" rel="noopener noreferrer">Sewa Nagar,
-                    NH-24, Sitapur Rd, Mubarakpur, Lucknow,
+                    Sewa Nagar, NH-24, Sitapur Rd, Mubarakpur, Lucknow,
                     Uttar Pradesh 226201</a>
             </li>
 
             <li>
                 <p class="footer-label">Contact</p>
-                <a href="tel:+916389000615">+91 6389000615</a>
+                <p>+91 6389000615</p>
             </li>
 
             <li>
