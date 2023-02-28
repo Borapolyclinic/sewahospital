@@ -6,7 +6,8 @@
 
     <div class="speciality-section-2-grid">
         <div class="col-md-6 speciality-section-2-img">
-            <img src="assets/images/webp/element-1.webp" alt="">
+            <img src="assets/images/webp/element-1.webp"
+                alt="best hospital in lucknow offering 24X7 services in Lucknow">
         </div>
         <div class="col-md-6 speciality-section-2-txt">
             <div class="speciality-section-2-pill">

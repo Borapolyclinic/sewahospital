@@ -1,7 +1,8 @@
 <div class="mt-5 ">
     <div class="home-section-5-grid">
         <div class="col-md-6 home-section-5-img">
-            <img src="assets/images/webp/dr-neeraj-bora.webp" alt="">
+            <img src="assets/images/webp/dr-neeraj-bora.webp"
+                alt="Dr. Neeraj Bora founder of Sewa Hospital & Research Centre">
         </div>
         <div class="col-md-6 home-section-5-txt">
             <h3>Dr. Neeraj <span>Bora</span></h3>

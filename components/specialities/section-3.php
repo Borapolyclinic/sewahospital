@@ -75,11 +75,11 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="assets/images/webp/department-3.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="Nephralogy Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
                         <img src="assets/images/webp/department-4.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="Nephralogy Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
@@ -153,11 +153,11 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="assets/images/webp/department-5.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="General Surgery Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
                         <img src="assets/images/webp/department-6.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="General Surgery Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
@@ -181,11 +181,11 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="assets/images/webp/department-11.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="Gastro Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
                         <img src="assets/images/webp/department-12.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="Gastro Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
@@ -253,11 +253,11 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="assets/images/webp/department-13.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="Orthopedics Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
                         <img src="assets/images/webp/department-14.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="Orthopedics Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
@@ -280,11 +280,11 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="assets/images/webp/department-9.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="Obstetrics & Gynecology Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
                         <img src="assets/images/webp/department-10.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="Obstetrics & Gynecology Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
@@ -352,11 +352,11 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="assets/images/webp/department-15.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="General Medicine Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
                         <img src="assets/images/webp/department-16.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="General Medicine Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
@@ -378,11 +378,11 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="assets/images/webp/department-7.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="ENT Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
                         <img src="assets/images/webp/department-8.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="ENT Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"
@@ -457,11 +457,11 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="assets/images/webp/department-17.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="Ophthalmic Department of Sewa Hospital & Research Centre ">
                     </div>
                     <div class="carousel-item">
                         <img src="assets/images/webp/department-18.webp"
-                            alt="Urology Department of Sewa Hospital & Research Centre ">
+                            alt="Ophthalmic Department of Sewa Hospital & Research Centre ">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button"

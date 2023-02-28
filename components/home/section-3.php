@@ -9,23 +9,28 @@
                 <div class="carousel-item active">
                     <div class="section-3-card-row">
                         <a href="specialities.php#urology" class="section-3-card">
-                            <img src="assets/images/webp/dep-1-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-1-icon.webp"
+                                alt="Urology Department of Sewa Hospital & Research Centre">
                             <p>Urology</p>
                         </a>
                         <a href="specialities.php#nephralogy" class="section-3-card">
-                            <img src="assets/images/webp/dep-2-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-2-icon.webp"
+                                alt="Nephralogy Department of Sewa Hospital & Research Centre">
                             <p>Nephralogy</p>
                         </a>
                         <a href="specialities.php#general-surgery-department" class="section-3-card">
-                            <img src="assets/images/webp/dep-3-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-3-icon.webp"
+                                alt="General Surgery Department of Sewa Hospital & Research Centre">
                             <p>General Surgery</p>
                         </a>
                         <a href="specialities.php#gastro" class="section-3-card">
-                            <img src="assets/images/webp/dep-4-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-4-icon.webp"
+                                alt="Gastro Surgery Department of Sewa Hospital & Research Centre">
                             <p>Gastro Surgery</p>
                         </a>
                         <a href="specialities.php#ortho" class="section-3-card">
-                            <img src="assets/images/webp/dep-5-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-5-icon.webp"
+                                alt="Orthopedics Department of Sewa Hospital & Research Centre">
                             <p>Orthopedics</p>
                         </a>
                     </div>
@@ -33,19 +38,23 @@
                 <div class="carousel-item">
                     <div class="section-3-card-row">
                         <a href="specialities.php#obs" class="section-3-card">
-                            <img src="assets/images/webp/dep-6-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-6-icon.webp"
+                                alt="OBS & Gynecology Department of Sewa Hospital & Research Centre">
                             <p>OBS & Gynecology</p>
                         </a>
                         <a href="specialities.php#general-medicine" class="section-3-card">
-                            <img src="assets/images/webp/dep-7-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-7-icon.webp"
+                                alt="General Medicine Department of Sewa Hospital & Research Centre">
                             <p>General Medicine</p>
                         </a>
                         <a href="specialities.php#ent" class="section-3-card">
-                            <img src="assets/images/webp/dep-8-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-8-icon.webp"
+                                alt="ENT Department of Sewa Hospital & Research Centre">
                             <p>ENT</p>
                         </a>
                         <a href="specialities.php#ophthalmic" class="section-3-card">
-                            <img src="assets/images/webp/dep-9-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-9-icon.webp"
+                                alt="Ophthalmic Department of Sewa Hospital & Research Centre">
                             <p>Ophthalmic</p>
                         </a>
                     </div>
@@ -78,7 +87,8 @@
                 <div class="carousel-item active">
                     <a href="specialities.php#urology" class="section-3-card-mobile-container">
                         <div class="section-3-card">
-                            <img src="assets/images/webp/dep-1-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-1-icon.webp"
+                                alt="Urology Department of Sewa Hospital & Research Centre">
                             <p>Urology</p>
                         </div>
                     </a>
@@ -87,7 +97,8 @@
                 <div class="carousel-item">
                     <a href="specialities.php#nephralogy" class="section-3-card-mobile-container">
                         <div class="section-3-card">
-                            <img src="assets/images/webp/dep-2-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-2-icon.webp"
+                                alt="Nephralogy Department of Sewa Hospital & Research Centre">
                             <p>Nephralogy</p>
                         </div>
                     </a>
@@ -96,7 +107,8 @@
                 <div class="carousel-item">
                     <a href="specialities.php#general-surgery-department" class="section-3-card-mobile-container">
                         <div class="section-3-card">
-                            <img src="assets/images/webp/dep-3-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-3-icon.webp"
+                                alt="General Surgery Department of Sewa Hospital & Research Centre">
                             <p>General Surgery</p>
                         </div>
                     </a>
@@ -105,7 +117,8 @@
                 <div class="carousel-item">
                     <a href="specialities.php#gastro" class="section-3-card-mobile-container">
                         <div class="section-3-card">
-                            <img src="assets/images/webp/dep-4-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-4-icon.webp"
+                                alt="Gastro Surgery Department of Sewa Hospital & Research Centre">
                             <p>Gastro Surgery</p>
                         </div>
                     </a>
@@ -114,7 +127,8 @@
                 <div class="carousel-item">
                     <a href="specialities.php#ortho" class="section-3-card-mobile-container">
                         <div class="section-3-card">
-                            <img src="assets/images/webp/dep-5-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-5-icon.webp"
+                                alt="Orthopedics Department of Sewa Hospital & Research Centre">
                             <p>Orthopedics</p>
                         </div>
                     </a>
@@ -123,7 +137,8 @@
                 <div class="carousel-item">
                     <a href="specialities.php#obs" class="section-3-card-mobile-container">
                         <div class="section-3-card">
-                            <img src="assets/images/webp/dep-6-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-6-icon.webp"
+                                alt="OBS & Gynecology Department of Sewa Hospital & Research Centre">
                             <p>OBS & Gynecology</p>
                         </div>
                     </a>
@@ -132,7 +147,8 @@
                 <div class="carousel-item">
                     <a href="specialities.php#general-medicine" class="section-3-card-mobile-container">
                         <div class="section-3-card">
-                            <img src="assets/images/webp/dep-7-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-7-icon.webp"
+                                alt="General Medicine Department of Sewa Hospital & Research Centre">
                             <p>General Medicine</p>
                         </div>
                     </a>
@@ -141,7 +157,8 @@
                 <div class="carousel-item">
                     <a href="specialities.php#ent" class="section-3-card-mobile-container">
                         <div class="section-3-card">
-                            <img src="assets/images/webp/dep-8-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-8-icon.webp"
+                                alt="ENT Department of Sewa Hospital & Research Centre">
                             <p>ENT</p>
                         </div>
                     </a>
@@ -150,7 +167,8 @@
                 <div class="carousel-item">
                     <a href="specialities.php#opthalmic" class="section-3-card-mobile-container">
                         <div class="section-3-card">
-                            <img src="assets/images/webp/dep-9-icon.webp" alt="">
+                            <img src="assets/images/webp/dep-9-icon.webp"
+                                alt="Ophthalmic Department of Sewa Hospital & Research Centre">
                             <p>Ophthalmic</p>
                         </div>
                     </a>
