@@ -324,9 +324,10 @@ input::-webkit-inner-spin-button {
 
 @media only screen and (max-width: 768px) {
   .login-screen-container {
-    display: initial;
+    display: initial !important;
     justify-content: initial;
     align-items: initial;
+    width: 100% !important;
   }
   .login-section-img {
     background-image: none;
@@ -345,6 +346,7 @@ input::-webkit-inner-spin-button {
     flex-direction: column;
     padding: 20px;
     margin-top: 100px;
+    margin-left: 0 !important;
   }
   .login-brand {
     display: initial;
