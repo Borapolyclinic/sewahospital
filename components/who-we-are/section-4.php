@@ -19,9 +19,9 @@
                 prefers not to abandon his smile even in most adverse circumstances. With all clarity of vision he has
                 proved well how to translate his vision into reality.</p>
 
-            <p class="home-section-5-main-txt">The medical fraternity expressed its unflinching faith in Dr. Neeraj's
+            <!-- <p class="home-section-5-main-txt">The medical fraternity expressed its unflinching faith in Dr. Neeraj's
                 Leadership acumen and administrative skills and elected him president of Lucknow chapter of Indian
-                Medical Association continuously for three years.</p>
+                Medical Association continuously for three years.</p> -->
         </div>
     </div>
 </div>
