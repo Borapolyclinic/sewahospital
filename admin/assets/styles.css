@@ -142,14 +142,14 @@ input::-webkit-inner-spin-button {
   align-items: center;
 }
 .sidenav-link ion-icon {
-  color: #818181;
+  color: #fff;
   font-size: 20px;
 }
 .sidenav a {
   padding: 10px;
   text-decoration: none;
   font-size: 18px;
-  color: #818181;
+  color: #fff;
   display: block;
   transition: 0.3s;
   font-weight: 300;
@@ -281,6 +281,14 @@ input::-webkit-inner-spin-button {
 .add-notice-btn:hover {
   background-color: #ab410e;
   transition: 0.3s all ease-in-out;
+}
+
+/* ============= ADD NOTICE ============= */
+.add-faq-btn-row {
+  display: flex;
+}
+.add-fq-btn {
+  margin-right: 10px;
 }
 
 /* ============= VIEW NOTICE ============= */

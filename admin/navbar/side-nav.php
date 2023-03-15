@@ -23,6 +23,10 @@
             <a href="#">Upload Media</a>
         </li>
         <li class="sidenav-link">
+            <ion-icon name="help-circle-outline"></ion-icon>
+            <a href="FAQ.php">Add FAQ's</a>
+        </li>
+        <li class="sidenav-link">
             <ion-icon name="log-out-outline"></ion-icon>
             <a href="login/logout.php">Logout</a>
         </li>

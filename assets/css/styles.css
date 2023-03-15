@@ -989,6 +989,14 @@ input::-webkit-inner-spin-button {
   color: #fff;
   transition: 0.3s all ease-in-out;
 }
+.faq-section {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.faq-heading {
+  font-size: 20px;
+  font-weight: bold;
+}
 
 /* =========== FOOTER =========== */
 .footer-menu {
