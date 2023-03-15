@@ -535,6 +535,7 @@ input::-webkit-inner-spin-button {
 /* =========== HOME SECTION 8 =========== */
 .section-8-container {
   margin-top: 100px;
+  display: flex;
 }
 .home-section-8-row {
   display: flex;
@@ -567,6 +568,43 @@ input::-webkit-inner-spin-button {
 }
 .home-section-8-txt a:hover {
   background-color: #230d6d;
+  color: #fff;
+  transition: 0.3s all ease-in-out;
+}
+.home-section-8-eligibility {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-section-8-eligibility-card {
+  border: 1px solid #e7e7e7e7;
+  border-radius: 5px;
+  padding: 30px;
+  background-color: #fff;
+  width: 80%;
+}
+.home-section-8-eligibility-card h2 {
+  font-size: 24px;
+  color: #230d6d;
+  margin: 0;
+  font-weight: bold;
+}
+.home-section-8-eligibility-card p {
+  font-size: 20px;
+  color: #000;
+  margin: 0;
+  margin-bottom: 20px;
+}
+.home-section-8-eligibility-card a {
+  text-decoration: none;
+  background-color: #fff;
+  border: 1px solid #e15613;
+  border-radius: 5px;
+  padding: 10px;
+  color: #e15613;
+}
+.home-section-8-eligibility-card a:hover {
+  background-color: #e15613;
   color: #fff;
   transition: 0.3s all ease-in-out;
 }
@@ -1316,9 +1354,18 @@ input::-webkit-inner-spin-button {
   /* =========== HOME SECTION 8 =========== */
   .section-8-container {
     margin-bottom: 50px;
+    flex-direction: column;
   }
   .home-section-8-row {
     flex-direction: column;
+  }
+  .home-section-8-eligibility {
+    margin-top: 50px;
+  }
+  .home-section-8-eligibility-card h2,
+  .home-section-8-eligibility-card p,
+  .home-section-8-eligibility-card a {
+    text-align: center;
   }
 
   /* =========== SPECIALITIES SECTION 3 =========== */
