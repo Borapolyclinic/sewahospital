@@ -14,10 +14,10 @@
             <ion-icon name="notifications-outline"></ion-icon>
             <a href="notices.php">Notices</a>
         </li>
-        <li class="sidenav-link">
+        <!-- <li class="sidenav-link">
             <ion-icon name="desktop-outline"></ion-icon>
             <a href="#">Visitors</a>
-        </li>
+        </li> -->
         <li class="sidenav-link">
             <ion-icon name="images-outline"></ion-icon>
             <a href="#">Upload Media</a>

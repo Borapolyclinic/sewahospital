@@ -195,12 +195,12 @@ input::-webkit-inner-spin-button {
   margin: 0;
   text-align: left;
 }
-.dashboard-header h2 {
+.dashboard-header h3 {
   color: #4123a6 !important;
   font-weight: 500;
   margin: 0 !important;
 }
-.dashboard-header h4 {
+.dashboard-header h5 {
   color: #4123a6 !important;
   font-weight: 500;
   margin: 0 !important;
@@ -210,6 +210,10 @@ input::-webkit-inner-spin-button {
   color: #777777 !important;
   font-size: 16px;
   margin: 0;
+}
+.section {
+  margin-top: 20px;
+  margin-bottom: 40px;
 }
 
 /* ============= DASHBOARD NOTICE SECTION ============= */
@@ -235,7 +239,9 @@ input::-webkit-inner-spin-button {
 .notice-title {
   margin: 0;
   font-weight: 500;
-  font-size: 20px !important;
+  font-size: 24px !important;
+  color: #12233f !important;
+  margin-top: 20px;
 }
 .notice-details {
   line-height: 20px;
@@ -264,6 +270,12 @@ input::-webkit-inner-spin-button {
   border-radius: 3px;
 }
 
+/* ============= DASHBOARD CONTACT ============= */
+.section-table {
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  padding: 30px;
+}
 /* ============= ADD NOTICE ============= */
 .add-notice-form {
   border: 1px solid #e7e7e7;

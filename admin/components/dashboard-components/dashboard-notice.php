@@ -6,9 +6,12 @@ $count = mysqli_num_rows($search_result);
 
 if ($count > 0) {
 ?>
-<div class="dashboard-header">
-    <p>All Notices</p>
-    <div class="dashboard-db-notice-section">
+<div class="section">
+    <div class="dashboard-header">
+        <h5>Notices</h5>
+        <p>Glimpse of all the notices added by you.</p>
+    </div>
+    <div class="dashboard-db-notice-section col-md-6">
         <?php
 
             $query = "SELECT * FROM `notices` ORDER BY `notice_added_date` DESC LIMIT 10";
@@ -24,21 +27,9 @@ if ($count > 0) {
         <div class="dashboard-notice-bar">
             <div class="notice-main-section">
                 <p class="notice-date-section"><?php echo $notice_date ?></p>
-                <p class="notice-title"><?php echo $notice_title ?></p>
+                <h5 class="notice-title"><?php echo $notice_title ?></h5>
                 <p class="notice-details"><?php echo $notice_details ?></p>
             </div>
-
-            <?php if ($notice_status === '1') { ?>
-            <div class="notice-active">
-                <p>Active</p>
-            </div>
-
-            <?php } elseif ($notice_status == '0') { ?>
-            <div class="notice-disabled">
-                <p>Disabled</p>
-            </div>
-            <?php } ?>
-            </p>
         </div>
         <?php } ?>
     </div>
