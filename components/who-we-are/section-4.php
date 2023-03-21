@@ -6,7 +6,7 @@
         </div>
         <div class="col-md-6 home-section-5-txt">
             <h3>Dr. Neeraj <span>Bora</span></h3>
-            <p>Member of the Legislative Assembly, Lucknow</p>
+            <p>President</p>
 
             <p class="home-section-5-main-txt">Dr. Neeraj Bora needs no introduction for the people of this part of
                 North India. He is well known for his social services in Uttar Pradesh, Uttaranchal, Delhi, Haryana,
