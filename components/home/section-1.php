@@ -11,8 +11,8 @@
                     <p>NABH Accredited Lab ISO 15189:2012 | NABH Certified Hospital (Entry Level)</p>
 
                     <div class="home-section-1-img-row">
-                        <img src="assets/images/icon/nabh-icon.png" alt="">
-                        <img src="assets/images/icon/govt-icon.png" alt="">
+                        <img src="assets/images/icon/nabh-icon.png" alt="NABH Accredited Lab ISO 15189:2012">
+                        <img src="assets/images/icon/govt-icon.png" alt="NABL Certified">
                     </div>
                     <a href="who-we-are.php" class="home-section-1-button">Know More</a>
                 </div>
@@ -45,13 +45,11 @@
             </div>
         </div> -->
     </div>
-    <button class="carousel-control-prev" id="homepage-banner-prev" type="button" data-bs-target="#carouselExample"
-        data-bs-slide="prev">
+    <button class="carousel-control-prev" id="homepage-banner-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Previous</span>
     </button>
-    <button class="carousel-control-next" id="homepage-banner-next" type="button" data-bs-target="#carouselExample"
-        data-bs-slide="next">
+    <button class="carousel-control-next" id="homepage-banner-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="visually-hidden">Next</span>
     </button>
