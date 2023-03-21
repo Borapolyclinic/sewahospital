@@ -213,6 +213,16 @@ input::-webkit-inner-spin-button {
 .banner-bottom-menu-mobile {
   display: none;
 }
+.home-section-1-img-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.home-section-1-img-row img {
+  width: 150px;
+  height: auto;
+}
 
 /* =========== HOME SECTION 2 =========== */
 .section-2-container {
@@ -1180,6 +1190,17 @@ input::-webkit-inner-spin-button {
     background-color: #230d6d;
     color: #fff;
     transition: 0.3s all ease-in-out;
+  }
+
+  .home-section-1-img-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+  }
+  .home-section-1-img-row img {
+    width: 50px;
+    height: auto;
   }
 
   /* =========== HOME SECTION 2 =========== */

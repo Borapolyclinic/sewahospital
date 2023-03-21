@@ -9,6 +9,11 @@
                     <p class="home-section-1-caption">A Unit of Bora Polyclinic</p>
                     <h1>A <span>SUPER SPECIALITY</span> HOSPITAL</h1>
                     <p>NABH Accredited Lab ISO 15189:2012 | NABH Certified Hospital (Entry Level)</p>
+
+                    <div class="home-section-1-img-row">
+                        <img src="assets/images/icon/nabh-icon.png" alt="">
+                        <img src="assets/images/icon/govt-icon.png" alt="">
+                    </div>
                     <a href="who-we-are.php" class="home-section-1-button">Know More</a>
                 </div>
             </div>
