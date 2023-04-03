@@ -43,7 +43,33 @@ function openModal() {
                     '$fileName'
                 )";
                 $upload_cv_res = mysqli_query($connection, $upload_cv_query);
-                if ($upload_cv_res) { ?>
+                if ($upload_cv_res) {
+                    $to = "sid.asthana0290@gmail.com";
+                    $subject = "Candidate Applied for Job";
+                    $message = "
+<html>
+<head>
+</head>
+<body>
+<table>
+<tr>
+<th>Candidate Name</th>
+<th>Contact</th>
+<th>Email</th>
+</tr>
+<tr>
+<td>$job_candidate_name</td>
+<td>$job_candidate_contact</td>
+<td>$job_candidate_email</td>
+</tr>
+</table>
+</body>
+</html>
+";
+                    $headers = "MIME-Version: 1.0" . "\r\n";
+                    $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
+                    mail($to, $subject, $message, $headers);
+    ?>
     <div class="alert alert-success mb-3 mt-3" role="alert">
         Thank you applying for this job. We will connect with you shortly!
     </div>
