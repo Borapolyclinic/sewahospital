@@ -1,10 +1,10 @@
-<script>
+<!-- <script>
 function openNotice() {
     $(document).ready(function() {
         $("#noticeModal").modal("show");
     });
 }
-</script>
+</script> -->
 
 <?php
 include('admin/includes/db.php');

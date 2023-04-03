@@ -27,6 +27,10 @@
             <a href="FAQ.php">Add FAQ's</a>
         </li>
         <li class="sidenav-link">
+            <ion-icon name="chatbubbles-outline"></ion-icon>
+            <a href="career.php">Career</a>
+        </li>
+        <li class="sidenav-link">
             <ion-icon name="log-out-outline"></ion-icon>
             <a href="login/logout.php">Logout</a>
         </li>

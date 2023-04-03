@@ -6,5 +6,6 @@ include('includes/header.php') ?>
     <?php include('components/dashboard-components/dashboard-header.php') ?>
     <?php include('components/dashboard-components/dashboard-notice.php') ?>
     <?php include('components/dashboard-components/dashboard-contact.php') ?>
+    <?php include('components/dashboard-components/dashboard-job.php') ?>
 </div>
 <?php include('includes/footer.php') ?>

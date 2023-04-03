@@ -1008,6 +1008,36 @@ input::-webkit-inner-spin-button {
   font-weight: bold;
 }
 
+/* =========== CAREER SECTION =========== */
+.career-bar {
+  margin-top: 50px;
+  border-bottom: 1px solid #e15613;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.career-bar-content {
+  flex: 1;
+}
+.career-bar-content h3 {
+  margin: 0;
+  font-size: 22px;
+}
+.career-bar-btn {
+  border: 1px solid #e15613;
+  background-color: #fff;
+  color: #e15613;
+  border-radius: 5px;
+  margin-left: 20px;
+  padding: 10px;
+}
+.career-bar-btn:hover {
+  border: 1px solid #e15613;
+  background-color: #e15613;
+  color: #fff;
+  transition: 0.3s all ease-in-out;
+}
+
 /* =========== FOOTER =========== */
 .footer-menu {
   bottom: 0 !important;

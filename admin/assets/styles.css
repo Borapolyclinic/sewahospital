@@ -200,6 +200,12 @@ input::-webkit-inner-spin-button {
   font-weight: 500;
   margin: 0 !important;
 }
+
+.dashboard-header h4 {
+  color: #4123a6 !important;
+  font-weight: 600;
+  margin: 0 !important;
+}
 .dashboard-header h5 {
   color: #4123a6 !important;
   font-weight: 500;
@@ -316,6 +322,38 @@ input::-webkit-inner-spin-button {
   padding: 20px;
 }
 
+/* ============= ADD CAREER ============= */
+.add-career-form {
+  border: 1px solid #e7e7e7e7;
+  padding: 40px;
+  border-radius: 5px;
+}
+.section-grid {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.section-table {
+  border: 1px solid #e7e7e7;
+  border-radius: 5px;
+  padding: 20px;
+}
+.btn-row {
+  display: flex;
+}
+.del-btn {
+  font-size: 22px;
+  margin-right: 20px;
+  color: red;
+}
+.edit-btn {
+  font-size: 22px;
+  color: blue;
+}
+.no-btn {
+  background-color: #00000000;
+  border: 0;
+}
 /* ============= ADMIN FOOTER ============= */
 .admin-footer {
   position: absolute;
@@ -329,7 +367,7 @@ input::-webkit-inner-spin-button {
   padding: 10px;
   border-top: 1px solid #e7e7e7e7;
   background-color: #fff;
-  z-index: -999;
+  z-index: 999;
 }
 .admin-footer p {
   margin: 0;

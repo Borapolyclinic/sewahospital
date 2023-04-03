@@ -608,6 +608,12 @@
   transition: 0.3s all ease-in-out;
 }
 
+/* =========== ADMISSION SECTION 2 =========== */
+.admission-section-2 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
 /* =========== FOOTER =========== */
 .footer {
   background-color: #182545;
