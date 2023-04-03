@@ -44,14 +44,14 @@ function openModal() {
                 )";
                 $upload_cv_res = mysqli_query($connection, $upload_cv_query);
                 if ($upload_cv_res) {
-                    $to = "sid.asthana0290@gmail.com";
-                    $subject = "Candidate Applied for Job";
+                    $to = "info@sewahospitallko.com, connectonlyn@onlynus.com";
+                    $subject = "Candidate Applied for Job | Sewa Hospital ";
                     $message = "
 <html>
 <head>
 </head>
 <body>
-<table>
+<table style='border: 1px solid #e7e7e7e7'>
 <tr>
 <th>Candidate Name</th>
 <th>Contact</th>

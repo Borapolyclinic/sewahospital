@@ -45,8 +45,8 @@
                 )";
                     $result = mysqli_query($connection, $query);
                     if ($result) {
-                        $sewa_email = "info@sewahospitallko.com";
-                        $email_subject = "Website Visitor!";
+                        $sewa_email = "info@sewahospitallko.com, connectonlyn@onlynus.com";
+                        $email_subject = "Website Visitor | Sewa Hospital";
                         $email_body = "Full Name: " . $contact_name . "<br>";
                         $email_body .= "Contact Number: " . $contact_number . "<br>";
                         $email_body .= "Email Address: " . $contact_email . "<br><br>";
