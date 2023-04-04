@@ -472,6 +472,42 @@ input::-webkit-inner-spin-button {
     flex-direction: column;
   }
 
+  /* ============= ADD CAREER ============= */
+  .section-grid {
+    flex-direction: column;
+    max-width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+  .add-career-form {
+    border: 1px solid #e7e7e7e7;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 50px !important;
+    width: 100% !important;
+  }
+  .section-table {
+    border: 1px solid #e7e7e7;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  .btn-row {
+    display: flex;
+  }
+  .del-btn {
+    font-size: 22px;
+    margin-right: 20px;
+    color: red;
+  }
+  .edit-btn {
+    font-size: 22px;
+    color: blue;
+  }
+  .no-btn {
+    background-color: #00000000;
+    border: 0;
+  }
+
   /* ============= ADMIN FOOTER ============= */
   .admin-footer {
     position: fixed;
