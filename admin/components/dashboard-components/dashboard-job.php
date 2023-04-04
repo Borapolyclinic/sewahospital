@@ -1,7 +1,7 @@
 <div class="section">
     <div class="dashboard-header">
         <h5>Career</h5>
-        <p>People who applied fot jobs</p>
+        <p>People who applied for jobs</p>
     </div>
 
     <div class="table-responsive section-table">
