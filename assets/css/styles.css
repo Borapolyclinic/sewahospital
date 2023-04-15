@@ -962,6 +962,38 @@ input::-webkit-inner-spin-button {
   font-weight: bold;
 }
 
+/* =========== WHO WE ARE SECTION 4 =========== */
+.who-we-are-section-4-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.who-we-are-section-founder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  max-width: 100%;
+  max-height: 100%;
+}
+.who-we-are-section-founder img {
+  width: 50% !important;
+  height: auto;
+}
+.who-we-are-section-founder h3 {
+  font-weight: bold;
+  font-size: 40px;
+  margin: 0;
+}
+.who-we-are-section-founder p {
+  font-weight: bold;
+  font-size: 24px;
+  color: #e15613;
+  margin: 0 !important;
+}
+
 /* =========== CONTACT SECTION =========== */
 .contact-section-1-row {
   display: flex;
@@ -1605,6 +1637,25 @@ input::-webkit-inner-spin-button {
   }
   .who-we-are-card-txt h4 {
     font-weight: bold;
+  }
+  /* =========== WHO WE ARE SECTION 4 =========== */
+  .who-we-are-section-4-row {
+    flex-direction: column;
+  }
+  .who-we-are-section-founder {
+    margin-bottom: 50px;
+  }
+  .who-we-are-section-founder img {
+    width: 100% !important;
+    height: auto;
+  }
+  .who-we-are-section-founder h3 {
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 20px;
+  }
+  .who-we-are-section-founder p {
+    font-weight: 600;
   }
 
   /* =========== CONTACT SECTION =========== */

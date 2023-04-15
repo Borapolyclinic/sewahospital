@@ -1,8 +1,20 @@
-<div>
-    
+<div class="who-we-are-section-4-row" id="our-management">
+    <div class="col-md-6 who-we-are-section-founder">
+        <img src="assets/images/webp/founder-1.webp"
+            alt="Dr. D. P. Bora the founder of Sewa Hospital & Research Center">
+        <h3>Late Dr. D. P. Bora</h3>
+        <p>Founder</p>
+    </div>
+
+    <div class="col-md-6 who-we-are-section-founder">
+        <img src="assets/images/webp/founder-2.webp"
+            alt="Mrs. Sushila Bora the founder of Sewa Hospital & Research Center">
+        <h3>Mrs Sushila Bora</h3>
+        <p>Our Inspiration</p>
+    </div>
 </div>
 
-<div class="mt-5" id="our-management">
+<div class="mt-5">
     <div class="home-section-5-grid">
         <div class="col-md-6 home-section-5-img">
             <img src="assets/images/webp/dr-neeraj-bora.webp"
