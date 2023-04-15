@@ -10,7 +10,7 @@
         <div class="carousel-item ">
             <div class="home-section-1">
                 <div class="col-md-6 home-section-1-img">
-                    <img src="assets/images/webp/banner-img-1-building.webp" alt="Home page banner for Sewa Hospital">
+                    <img src="assets/images/webp/banner-img-1-building.webp" alt="best hospital in lucknow">
                 </div>
                 <div class="col-md-6 home-section-1-txt">
                     <p class="home-section-1-caption">A Unit of Bora Polyclinic</p>
