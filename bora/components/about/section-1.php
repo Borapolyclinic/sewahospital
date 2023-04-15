@@ -1,5 +1,5 @@
 <div id="about-college" class="about-section-1-heading">
-    <h1>GET TO <strong>KNOW US BETTER</strong></h1>
+    <h1>COMMITTED TO <strong>EXCELLENCE</strong> IN NURSING</h1>
     <p>Aiming at preparing professional nurses, competent to render qualitative care and and helping individuals
         value and pursue life-long learning</p>
 </div>
