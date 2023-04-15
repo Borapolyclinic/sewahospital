@@ -1,9 +1,11 @@
 <div class="container home-section-3">
-    <h2>About <span>Bora Institute </span>of Allied Health Sciences</h2>
-    <p>Bora Institute of Allied Health Sciences is a unit of “Bora Polyclinic”, established in 2008 which aims at
-        preparing professional nurses who are competent to render qualitative care to patients in all settings and to
-        practice within the established guidelines and standards to engage in continuous role development and helps
-        individual value and pursue life-long learning</p>
+    <h2>Your <span>Journey </span>Starts Now </h2>
+    <p>Bora Institute of Allied Health Sciences, a top nursing college in Lucknow, is a division of Bora Polyclinic,
+        founded in 2008 to train skilled nurses capable of providing high-quality care to patients in any setting. Our
+        nursing courses and degree programs in Lucknow follow established guidelines and standards, fostering lifelong
+        learning and continuous professional development. With an emphasis on individual growth and a commitment to
+        nursing placements in Lucknow, Bora Institute of Allied Health Sciences is the ideal choice for students seeking
+        to build a successful career in nursing.</p>
 
     <div class="container home-section-3-img-container">
         <img src="assets/images/banners/banner-1.png" alt="">
