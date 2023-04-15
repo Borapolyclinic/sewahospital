@@ -10,9 +10,10 @@
 
     <div class="col-md-6 about-section-2-text">
         <h3>MISSION</h3>
-        <p class="about-section-2-headline">To provide nursing education in depth theoretical knowledge and diverse
-            clinical experience that prepares
-            them to deliver comprehensive holistic nursing care in all settings of health care.</p>
+        <p class="about-section-2-headline">As the best nursing college in Lucknow, we aim to provide our students with
+            a comprehensive nursing education that includes in-depth theoretical knowledge and diverse clinical
+            experience. Our programs are designed to prepare our students to deliver holistic nursing care in any
+            healthcare setting.</p>
 
         <p>
             <ion-icon name="checkmark-done-outline"></ion-icon> To uphold the ethical values and loyal to the
@@ -60,11 +61,12 @@
     </div>
 
     <h3 class="mt-5">PHILOSOPHY</h3>
-    <p>Bora Institute of Nursing & Paramedical Sciences mainly aims to make qualitative contribution to health care
-        though educational preparation based on sound educational principles and to prepare young health nursing
-        professionals competent to deliver holistic health care with special emphasis on community health services to
-        meet the health needs of medically underprivileged areas of our community. We focus upliftment of the population
-        of Lucknow district and surrounding area through quality educational reparations of students. Although provide
-        students centered quality education to equip them with application of relevant knowledge from humanities,
-        biological and behavioral sciences in carrying out health care.</p>
+    <p>As the best nursing college in Lucknow, Bora Institute of Nursing & Paramedical Sciences is dedicated to
+        providing high-quality education that contributes to the advancement of healthcare. We believe that sound
+        educational principles are key to achieving this goal, and we aim to prepare young nursing professionals who are
+        competent in delivering holistic care, with a special emphasis on community health services. Our primary focus
+        is on serving medically underprivileged areas of our community, particularly in the Lucknow district and
+        surrounding areas, through the quality educational preparation of our students. Our student-centered approach
+        provides relevant knowledge from humanities, biological, and behavioral sciences, equipping our students with
+        the skills necessary to provide excellent healthcare services.</p>
 </div>
