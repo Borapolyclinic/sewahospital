@@ -371,10 +371,15 @@
 }
 .about-section-3-txt h3 {
   font-weight: 300;
-  color: #ec7f0d;
+
+  font-size: 40px;
 }
 .about-section-3-txt strong {
   font-weight: 600 !important;
+  color: #ec7f0d !important;
+}
+.about-section-3-txt p {
+  font-size: 20px;
 }
 .about-section-3-name {
   font-size: 20px;

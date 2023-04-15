@@ -19,8 +19,8 @@
                     </a>
                     <ul class="dropdown-menu">
                         <li><a class="dropdown-item" href="about.php#about-college">About the College</a></li>
-                        <li><a class="dropdown-item" href="about.php#founders">Founders</a></li>
-                        <li><a class="dropdown-item" href="#">Directors</a></li>
+                        <li><a class="dropdown-item" href="#">Founders</a></li>
+                        <li><a class="dropdown-item" href="about.php#founders">Chairperson</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
