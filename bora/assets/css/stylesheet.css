@@ -629,6 +629,27 @@ input::-webkit-inner-spin-button {
 .admission-section-2 {
   margin-top: 100px;
   margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.admission-section-2-img {
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.admission-section-2-img img {
+  width: 97.5%;
+  height: auto;
+  border-radius: 10px;
+}
+.admission-section-2-form {
+  border: 1px solid #e7e7e7;
+  border-radius: 10px;
+  padding: 30px;
+  background-color: #fff;
 }
 
 /* =========== FOOTER =========== */
@@ -831,6 +852,15 @@ input::-webkit-inner-spin-button {
   }
   .about-section-3-txt p {
     text-align: center;
+  }
+
+  /* =========== ADMISSION SECTION 2 =========== */
+  .admission-section-2 {
+    margin-top: 50px;
+    flex-direction: column;
+  }
+  .admission-section-2-img {
+    margin-bottom: 30px;
   }
 
   /* =========== COURSES SECTION 2 =========== */

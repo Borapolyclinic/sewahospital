@@ -2,9 +2,9 @@
     <div class="about-section-2-img-grid col-md-6">
         <img src="assets/images/banners/temp-4.png" alt="">
 
-        <img src="assets/images/banners/temp-3.png" alt="">
+        <img src="assets/images/banners/temp-8.png" alt="">
 
-        <img src="assets/images/banners/temp-4.png" alt="">
+        <img src="assets/images/banners/temp-7.png" alt="">
         <img src="assets/images/banners/temp-3.png" alt="">
     </div>
 
