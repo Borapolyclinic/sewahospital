@@ -13,6 +13,12 @@
   background: #ec7f0d;
 }
 
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
 /* =========== TOP NAVBAR =========== */
 .top-nav {
   max-width: 100%;

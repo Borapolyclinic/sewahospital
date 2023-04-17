@@ -1,7 +1,8 @@
 <div id="carouselExample" class="carousel slide home-section-1" data-bs-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="assets/images/banners/banner-1.png" class="d-block w-100" alt="...">
+            <img src="assets/images/banners/banner-1-home.png" class="d-block w-100"
+                alt="Bora Institute of Allied Health Sciences">
         </div>
         <!-- <div class="carousel-item">
             <img src="assets/images/banners/banner-1.png" class="d-block w-100" alt="...">

@@ -6,7 +6,7 @@
 
 <div class="container about-section-1-grid">
     <div class="col-md-6 about-section-1-grid-text order-lg-0 order-1">
-        <h2>About the college</h2>
+        <h2>About the College</h2>
 
         <p>Bora Institute of Nursing & Paramedical Sciences, a part of Bora Polyclinic established in 2008, is committed
             to providing professional nursing education that prepares students to deliver high-quality patient care and
