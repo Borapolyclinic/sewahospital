@@ -1,9 +1,14 @@
 <?php
 // Production
-$servername = "sql686.main-hosting.eu";
-$username = "217.21.95.205";
+$servername = "localhost";
+$username = "u976956619_sewa";
 $database = "u976956619_sewa";
 $password = "S3w@2023";
+
+// $servername = "sql686.main-hosting.eu";
+// $username = "217.21.95.205";
+// $database = "u976956619_sewa";
+// $password = "S3w@2023";
 
 // Development
 // $servername = "localhost";
