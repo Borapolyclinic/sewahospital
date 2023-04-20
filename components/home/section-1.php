@@ -1,4 +1,4 @@
-<div id="carouselExample" class="carousel carousel-dark slide home-section-1-container">
+<div id="carouselExample" class="carousel carousel-dark slide home-section-1-container" data-bs-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
             <div class="home-section-1">
