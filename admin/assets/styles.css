@@ -346,6 +346,11 @@ input::-webkit-inner-spin-button {
   margin-right: 20px;
   color: red;
 }
+.upload-btn {
+  font-size: 24px;
+  margin-right: 20px;
+  color: green;
+}
 .edit-btn {
   font-size: 22px;
   color: blue;
@@ -353,6 +358,14 @@ input::-webkit-inner-spin-button {
 .no-btn {
   background-color: #00000000;
   border: 0;
+}
+.cell-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cell {
+  flex: 1;
 }
 /* ============= ADMIN FOOTER ============= */
 .admin-footer {

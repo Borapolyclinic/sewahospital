@@ -20,7 +20,7 @@
         </li> -->
         <li class="sidenav-link">
             <ion-icon name="images-outline"></ion-icon>
-            <a href="#">Upload Media</a>
+            <a href="create-album.php">Upload Media</a>
         </li>
         <li class="sidenav-link">
             <ion-icon name="help-circle-outline"></ion-icon>
