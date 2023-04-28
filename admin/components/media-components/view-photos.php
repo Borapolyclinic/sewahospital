@@ -30,6 +30,7 @@
                     <th scope="row">
                         <div class="view-photos">
                             <img src="<?php echo $sewa_photo_filename ?>" alt="">
+                            <p style="margin-top: 10px; margin-bottom: 10px;"><?php echo $sewa_photo_filename ?></p>
                         </div>
                     </th>
                     <td>
