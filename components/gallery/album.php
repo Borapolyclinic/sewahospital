@@ -19,7 +19,7 @@
             <input type="text" name="album_id" value="<?php echo $album_id ?>" hidden>
             <button type="submit" name="select" class="gallery-album">
                 <?php
-                            $fetch_query = "SELECT * FROM sewa_photos WHERE sewa_album_id = $album_id";
+                            $fetch_query = "SELECT * FROM `sewa_photos` WHERE `sewa_album_id` = '$album_id' ORDER BY `sewa_photos_id` DESC";
                             $fetch_res = mysqli_query($connection, $fetch_query);
                             $album_thumb = "";
                             while ($row = mysqli_fetch_assoc($fetch_res)) {
