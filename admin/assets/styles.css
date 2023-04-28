@@ -380,6 +380,22 @@ input::-webkit-inner-spin-button {
   background-color: #4caf50;
 }
 
+/* ============= VIEW PHOTOS ============= */
+.view-photos {
+  max-width: 30% !important;
+  max-height: 100%;
+  border: 1px solid #000;
+  margin: 10px;
+}
+.view-photos img {
+  width: 100% !important;
+  height: auto;
+}
+.del-btn-white {
+  color: #fff;
+  font-size: 22px;
+}
+
 /* ============= ADMIN FOOTER ============= */
 .admin-footer {
   position: absolute;
@@ -524,6 +540,11 @@ input::-webkit-inner-spin-button {
     font-size: 22px;
     margin-right: 20px;
     color: red;
+  }
+  .view-btn {
+    font-size: 22px;
+    margin-right: 20px;
+    color: green !important;
   }
   .edit-btn {
     font-size: 22px;

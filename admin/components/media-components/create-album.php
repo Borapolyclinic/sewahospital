@@ -54,6 +54,7 @@
                             <th scope="col">STATUS</th>
                             <th scope="col">ACTION</th>
                             <th scope="col">DELETE</th>
+                            <th scope="col">VIEW</th>
                             <th scope="col">UPLOAD</th>
                         </tr>
                     </thead>
@@ -127,6 +128,16 @@
 
                                     <button type="submit" name="del" class="no-btn">
                                         <ion-icon class="del-btn" name="trash-outline"></ion-icon>
+                                    </button>
+                                </form>
+                            </td>
+
+                            <td>
+                                <form action="view-photos.php" method="POST">
+                                    <input type="text" value="<?php echo $album_id ?>" name="album_id" hidden>
+
+                                    <button type="submit" name="view" class="no-btn">
+                                        <ion-icon class="upload-btn" name="eye-outline"></ion-icon>
                                     </button>
                                 </form>
                             </td>

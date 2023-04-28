@@ -19,6 +19,7 @@ form.addEventListener("submit", (e) => {
 
 <?php
 require('includes/db.php');
+
 if (isset($_POST['upload'])) {
     $album_id = $_POST['album_id'];
     $fetch_album_query = "SELECT * FROM `sewa_album` WHERE `album_id` = '$album_id'";
