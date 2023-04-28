@@ -34,11 +34,6 @@
             }
         } else { ?>
         No Albums uploaded!
-        <?php
-
-
-        }
-
-        ?>
+        <?php } ?>
     </div>
 </div>

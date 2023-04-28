@@ -1,3 +1,22 @@
+<script>
+const form = document.getElementById('upload-form-new');
+const progressBar = document.getElementById('progress');
+form.addEventListener("submit", (e) => {
+    e.preventDefault();
+
+    const formData = new FormData(form);
+    const xhr = new XMLHttpRequest();
+
+    xhr.upload.addEventListener("progress", (event) => {
+        const percent = (event.loaded / event.total) * 100;
+        progressBar.style.width = `${percent}%`;
+    });
+
+    xhr.open("POST", "./uploads");
+    xhr.send(formData);
+});
+</script>
+
 <?php
 require('includes/db.php');
 if (isset($_POST['upload'])) {
@@ -46,6 +65,7 @@ if (isset($_POST['upload'])) {
                 if ($result) {
                     move_uploaded_file($tempname, $target_dir . $filename);
         ?>
+
         <div class="alert alert-success mt-3 mb-3" role="alert">
             Images uploaded!
         </div>
@@ -58,8 +78,11 @@ if (isset($_POST['upload'])) {
             }
         }
         ?>
+        <div id='progress-bar'>
+            <div id='progress'></div>
+        </div>
 
-        <form action="" method="POST" class="add-career-form m-1" enctype="multipart/form-data">
+        <form action="" method="POST" class="add-career-form m-1" enctype="multipart/form-data" id="upload-form-new">
             <input type="text" name="sewa_album_id" value="<?php echo $fetched_album_id ?>" hidden>
             <div class="mb-3">
                 <label for="formFile" class="form-label">Select & Upload photos</label>
@@ -68,6 +91,8 @@ if (isset($_POST['upload'])) {
 
             <button type="submit" name="submit" class="btn btn-primary w-100">Submit</button>
         </form>
+
+
     </div>
 
 </div>

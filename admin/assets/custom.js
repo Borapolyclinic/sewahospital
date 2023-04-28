@@ -7,3 +7,6 @@ function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
   document.getElementById("main").style.marginLeft = "0";
 }
+
+const form = document.getElementById("upload-form");
+const progressBar = document.getElementById("progress");
