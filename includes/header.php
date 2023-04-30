@@ -2,6 +2,19 @@
 <html lang="en">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-084JPKW7K7"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-084JPKW7K7');
+    </script>
+
     <!-- =============== GOOGLE TAG MANAGER =============== -->
     <script>
     (function(w, d, s, l, i) {
@@ -65,10 +78,11 @@
 </head>
 
 <body>
-
     <!-- ========== GOOGLE TAG MANAGER ========== -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THL8N6X" height="0" width="0"
             style="display:none;visibility:hidden"></iframe></noscript>
+
+
 
     <?php include('includes/cookie.php') ?>
     <button onclick="topFunction()" id="myBtn" title="Go to top">
