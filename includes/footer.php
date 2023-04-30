@@ -33,9 +33,8 @@
     </div>
     <div class="menu-list">
         <ul class="footer-nav">
-            <li><a href="#">Terms & Conditions</a></li>
-            <li><a href="#">Privacy Policy</a></li>
-            <li><a href="#">Disclaimer</a></li>
+            <li><a href="tnc.php">Terms & Conditions</a></li>
+            <li><a href="privacy-policy.php">Privacy Policy</a></li>
             <li><a href="admin/index.php">Admin Login</a></li>
         </ul>
     </div>
@@ -54,7 +53,8 @@
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-63ec72c3c28568d1"></script>
 
 <!-- =============== BOOTSTRAP =============== -->
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
 </script>
 
 <!-- =============== IONICONS =============== -->
