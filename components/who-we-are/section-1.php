@@ -33,8 +33,7 @@
         <div class="col-md-6 who-we-are-section-1-img-grid order-lg-1 order-0">
             <img src="assets/images/temp/square-1.webp" alt="About Sewa Hospital & Research Centre Image ">
             <img src="assets/images/temp/square-2.webp" alt="Sewa Hospital & Research Centre Facilities Image">
-            <img src="assets/images/temp/rec-1.webp"
-                alt="Sewa Hospital & Research Centre is equipped with the latest state of the art Technology equipment’s ">
+            <img src="assets/images/temp/rec-2.webp" alt="Sewa Hospital & Research Centre is equipped with the latest state of the art Technology equipment’s ">
         </div>
     </div>
 </div>
