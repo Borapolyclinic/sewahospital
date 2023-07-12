@@ -28,7 +28,7 @@
                     }
                 }
 
-                $results_per_page = 10;
+                $results_per_page = 30;
                 $fetch = "SELECT * FROM `contact`";
                 $result = mysqli_query($connection, $fetch);
                 $number_of_result = mysqli_num_rows($result);
