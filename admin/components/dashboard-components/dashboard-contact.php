@@ -70,7 +70,7 @@
         <nav aria-label="Page navigation example">
             <ul class="pagination">
                 <?php for ($page = 1; $page <= $number_of_page; $page++) {
-                    echo '<li class="page-item"><a href = "index2.php?page=' . $page . '">' . $page . ' </a></li>';
+                    echo '<li class="page-item"><a href = "dashboard.php?page=' . $page . '">' . $page . ' </a></li>';
                 } ?>
             </ul>
         </nav>
