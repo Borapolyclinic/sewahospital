@@ -9,7 +9,7 @@
             <thead>
                 <tr>
                     <th scope="col">Name</th>
-                    <th scope="col">Contact Number</th>
+                    <th scope="col">Contact</th>
                     <th scope="col">Email</th>
                     <th scope="col">Details</th>
                     <th scope="col">Date & Time</th>
