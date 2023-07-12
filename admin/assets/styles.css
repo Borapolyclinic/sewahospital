@@ -97,6 +97,12 @@ input::-webkit-inner-spin-button {
 .nav-item {
   visibility: hidden;
 }
+.page-item a {
+  border: 1px solid #e7e7e7;
+  padding: 12px;
+  text-decoration: none;
+  margin: 0;
+}
 
 /* ============= SIDE NAVBAR ============= */
 .menu-open-btn {
