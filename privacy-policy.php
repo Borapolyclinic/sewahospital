@@ -1,9 +1,9 @@
 <?php
-$title = "Sewa Hospital & Research Center";
+$title = "Sewa Hospital & Research Centre";
 include('includes/header.php')
 ?>
 <?php
-// $title = "Under Maintenance | Sewa Hospital & Research Center";
+// $title = "Under Maintenance | Sewa Hospital & Research Centre";
 // include('includes/header.php')
 ?>
 <?php // include('includes/error-404.php')
@@ -13,7 +13,7 @@ include('includes/header.php')
 <div class="container mt-5 mb-5 legal-section">
     <h2>Privacy Policy</h2>
 
-    <p>At Sewa Hospital & Research Center, we respect your privacy and are committed to protecting your personal
+    <p>At Sewa Hospital & Research Centre, we respect your privacy and are committed to protecting your personal
         information. This
         Privacy Policy explains how we collect, use, and disclose your information when you use our website or receive
         our healthcare services. By using our website or healthcare services, you consent to the terms of this Privacy
@@ -56,7 +56,7 @@ include('includes/header.php')
         design-focused approach and streamlined project execution processes, they deliver the right solutions for
         exponential business growth. Onlyn does not collect any information of the users of this website
         (sewahospitallko.com). This website has been developed by <a href="https://onlynus.com">Onlyn</a> as the
-        marketing and branding partners in Lucknow for Sewa Hospital & Research Center.</p>
+        marketing and branding partners in Lucknow for Sewa Hospital & Research Centre.</p>
 
     <h3>Contact Us</h3>
     <p>If you have any questions or concerns about our privacy practices, please contact us at info@sewahospitallko.com

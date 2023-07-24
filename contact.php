@@ -1,5 +1,5 @@
 <?php
-$title = "Connect with us | Sewa Hospital & Research Center";
+$title = "Connect with us | Sewa Hospital & Research Centre";
 include('includes/header.php') ?>
 <?php include('includes/navbar.php') ?>
 <?php include('components/contact/section-1.php') ?>

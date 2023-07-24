@@ -1,5 +1,5 @@
 <?php
-$title = "Sewa Hospital & Research Center";
+$title = "Sewa Hospital & Research Centre";
 include('includes/header.php')
 ?>
 <?php

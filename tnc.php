@@ -1,9 +1,9 @@
 <?php
-$title = "Sewa Hospital & Research Center";
+$title = "Sewa Hospital & Research Centre";
 include('includes/header.php')
 ?>
 <?php
-// $title = "Under Maintenance | Sewa Hospital & Research Center";
+// $title = "Under Maintenance | Sewa Hospital & Research Centre";
 // include('includes/header.php')
 ?>
 <?php // include('includes/error-404.php')

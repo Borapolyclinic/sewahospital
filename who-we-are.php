@@ -1,5 +1,5 @@
 <?php
-$title = "Who we are | Sewa Hospital & Research Center";
+$title = "Who we are | Sewa Hospital & Research Centre";
 include('includes/header.php') ?>
 <?php include('includes/navbar.php') ?>
 <?php include('components/who-we-are/section-banner.php') ?>
