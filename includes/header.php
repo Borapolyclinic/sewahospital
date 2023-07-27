@@ -69,13 +69,25 @@
 
     <!-- ========== JQUERY ========== -->
     <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM=" crossorigin="anonymous"></script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11278379147">
+    </script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'AW-11278379147');
+    </script>
 </head>
 
 <body>
     <!-- ========== GOOGLE TAG MANAGER ========== -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THL8N6X" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-
 
     <?php include('includes/cookie.php') ?>
     <button onclick="topFunction()" id="myBtn" title="Go to top">
