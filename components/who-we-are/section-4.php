@@ -2,14 +2,14 @@
     <div class="col-md-6 who-we-are-section-founder">
         <img src="assets/images/webp/founder-1.webp"
             alt="Dr. D. P. Bora the founder of Sewa Hospital & Research Center">
-        <h3>Late Dr. D. P. Bora</h3>
+        <h3>Late D. P. Bora</h3>
         <p>Founder</p>
     </div>
 
     <div class="col-md-6 who-we-are-section-founder">
         <img src="assets/images/webp/founder-2.webp"
             alt="Mrs. Sushila Bora the founder of Sewa Hospital & Research Center">
-        <h3>Mrs Sushila Bora</h3>
+        <h3>Mrs. Sushila Bora</h3>
         <p>Our Inspiration</p>
     </div>
 </div>
