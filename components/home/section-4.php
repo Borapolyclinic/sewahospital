@@ -1,11 +1,10 @@
 <div class="section-4-container w-100">
     <h3>Discover Our Story: Sewa Hospital & Research Centre Lucknow - Leading Medical Excellence, Advanced Care,
         Experienced Doctors, and Patient-Centered Services.</h3>
-    <p>Sewa Hospital & Research Centre, established in the year 1993, has been providing super specialty services since
-        1998. Spread across 10 acres of beautifully landscaped area in Sewa Nagar, Sitapur Road, the hospital provisions
-        100 beds, ICU centre, NICU, PBU, Dialysis, X-Ray, 24X7 Ambulance Facility and with a team of more than 80+
-        doctors with specialty in Orthopaedic Department, Gynaecology Department, Pathology Department, Urology
-        Department, Neurology Departments, General Surgery and Trauma treatments.</p>
+    <p>Pinnacle of Healthcare: Sewa Hospital & Research Centre, established in 1993, is the ultimate destination for
+        advanced medical excellence in Lucknow. With a serene 10-acre setting in Sewa Nagar, Sitapur Road, we offer 100
+        beds, ICU, NICU, PBU, Dialysis, X-Ray, Ambulance, and a skilled team of 80+ specialized doctors in Orthopaedics,
+        Gynaecology, Pathology, Urology, Neurology, General Surgery, and Trauma care.</p>
 
     <a href="who-we-are.php" class="section-4-link">Read More</a>
 </div>
