@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    <?php header_remove("X-Powered-By"); ?>
     <!-- Google Search Console ID: sewahospitalmarketing@gmail.com -->
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-084JPKW7K7"></script>
