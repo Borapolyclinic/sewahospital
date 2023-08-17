@@ -69,22 +69,15 @@ if ($count > 0) {
             </a>
         </div>
     </div>
-
-
-
-<?php }
-
-?>
-
-
+<?php } ?>
 
 <div class="modal fade" id="noticeModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header">
-                <h1 class="modal-title fs-5" id="exampleModalLabel">
+                <h2 class="modal-title fs-5" id="exampleModalLabel">Notice:
                     <?php echo $notice_title ?><small></h1>
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
                 <h6><?php echo $notice_details ?></h6>

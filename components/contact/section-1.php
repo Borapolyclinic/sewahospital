@@ -6,12 +6,8 @@
 
     <div class="contact-section-1-row">
         <div class="col-md-6 contact-section-1-graphic">
-            <lottie-player src="https://assets10.lottiefiles.com/packages/lf20_gaplvsns.json" background="transparent"
-                speed="1" loop autoplay></lottie-player>
+            <lottie-player src="https://assets10.lottiefiles.com/packages/lf20_gaplvsns.json" background="transparent" speed="1" loop autoplay></lottie-player>
         </div>
-
-
-
         <form action="" method="POST" class="contact-section-form col-md-6">
             <?php
             require('admin/includes/db.php');
@@ -27,14 +23,14 @@
 
                 if ($fetch_query_count == 0) {
                     if (empty($contact_name)) { ?>
-            <div class="alert alert-danger mb-3 mt-3" role="alert">
-                Please mention your name!
-            </div>
-            <?php } elseif (empty($contact_number)) { ?>
-            <div class="alert alert-danger mb-3 mt-3" role="alert">
-                Please mention your Contact Number!
-            </div>
-            <?php
+                        <div class="alert alert-danger mb-3 mt-3" role="alert">
+                            Please mention your name!
+                        </div>
+                    <?php } elseif (empty($contact_number)) { ?>
+                        <div class="alert alert-danger mb-3 mt-3" role="alert">
+                            Please mention your Contact Number!
+                        </div>
+                        <?php
                     } else {
                         $query = "INSERT INTO `contact`(
                     `contact_name`,
@@ -66,17 +62,17 @@
                                 $headers
                             );
                         ?>
-            <div class="alert alert-success mb-3 mt-3" role="alert">
-                Thank you! We have recieved you request. Someone from our team will connect with you shortly.
-            </div>
-            <?php
+                            <div class="alert alert-success mb-3 mt-3" role="alert">
+                                Thank you! We have recieved you request. Someone from our team will connect with you shortly.
+                            </div>
+                    <?php
                         }
                     }
                 } else { ?>
-            <div class="alert alert-info mb-3 mt-3" role="alert">
-                Looks like you have already contact us before. Please wait while someone from our team connects with
-                you.
-            </div>
+                    <div class="alert alert-info mb-3 mt-3" role="alert">
+                        Looks like you have already contact us before. Please wait while someone from our team connects with
+                        you.
+                    </div>
             <?php
                 }
             }
@@ -87,19 +83,16 @@
                 <label for="contactName">Your Name</label>
             </div>
             <div class="form-floating mb-3">
-                <input type="number" class="form-control" id="contactNumber" name="contact_number"
-                    placeholder="Contact number">
+                <input type="number" class="form-control" id="contactNumber" name="contact_number" placeholder="Contact number">
                 <label for="contactNumber">+91 XXXXX XXXXX</label>
             </div>
 
             <div class="form-floating mb-3">
-                <input type="email" class="form-control" id="contactEmail" name="contact_email"
-                    placeholder="Contact number" required>
+                <input type="email" class="form-control" id="contactEmail" name="contact_email" placeholder="Contact number" required>
                 <label for="contactEmail">Email Address</label>
             </div>
             <div class="form-floating mb-3">
-                <textarea class="form-control" placeholder="Leave a comment here" name="contact_comment"
-                    id="floatingTextarea2" style="height: 100px"></textarea>
+                <textarea class="form-control" placeholder="Leave a comment here" name="contact_comment" id="floatingTextarea2" style="height: 100px"></textarea>
                 <label for="floatingTextarea2">Comments</label>
             </div>
             <button type="submit" name="submit" class="contact-section-1-btn">Submit</button>
