@@ -1,7 +1,7 @@
 <!-- =============== FOOTER =============== -->
 <div class="footer-menu">
     <div class="menu-list">
-        <img src="assets/images/nav-logo.webp" alt="">
+        <img src="assets/images/nav-logo.webp" alt="Sewa Hospital Lucknow's emblem symbolizing medical excellence">
         <ul class="footer-nav">
             <li>
                 <p class="footer-label">Address</p>
