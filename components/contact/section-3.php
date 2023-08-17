@@ -1,9 +1,9 @@
 <script>
-function openModal() {
-    $(document).ready(function() {
-        $("#exampleModal").modal("show");
-    });
-}
+    function openModal() {
+        $(document).ready(function() {
+            $("#exampleModal").modal("show");
+        });
+    }
 </script>
 
 <div class="container mt-5 mb-5" id="career-section">
@@ -70,19 +70,19 @@ function openModal() {
                     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
                     mail($to, $subject, $message, $headers);
     ?>
-    <div class="alert alert-success mb-3 mt-3" role="alert">
-        Thank you applying for this job. We will connect with you shortly!
-    </div>
-    <?php
+                    <div class="alert alert-success mb-3 mt-3" role="alert">
+                        Thank you applying for this job. We will connect with you shortly!
+                    </div>
+            <?php
 
 
                 }
             }
         } else { ?>
-    <div class="alert alert-danger mb-3 mt-3" role="alert">
-        Error!
-    </div>
-    <?php
+            <div class="alert alert-danger mb-3 mt-3" role="alert">
+                Error!
+            </div>
+        <?php
         }
     }
 
@@ -94,20 +94,19 @@ function openModal() {
         $career_det = $row['career_det'];
         $career_status = $row['career_status'];
         ?>
-    <div class="career-bar">
-        <div class="career-bar-content">
-            <h3><?php echo $career_title ?></h3>
-            <p><?php echo $career_det ?></p>
-        </div>
+        <div class="career-bar">
+            <div class="career-bar-content">
+                <h3><?php echo $career_title ?></h3>
+                <p><?php echo $career_det ?></p>
+            </div>
 
-        <form action="" method="post">
-            <input type="text" value="<?php echo $career_id ?>" name="career_id" hidden>
-            <button type="submit" name="open" class="career-bar-btn" data-bs-toggle="modal"
-                data-bs-target="#exampleModal">Apply
-                Now</button>
-        </form>
-    </div>
-    <?php }
+            <form action="" method="post">
+                <input type="text" value="<?php echo $career_id ?>" name="career_id" hidden>
+                <button type="submit" name="open" class="career-bar-btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Apply
+                    Now</button>
+            </form>
+        </div>
+        <?php }
     if (isset($_POST['open'])) {
         echo "<script>openModal();</script>";
         $career_id = $_POST['career_id'];
@@ -124,7 +123,7 @@ function openModal() {
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header">
-                <h1 class="modal-title fs-5" id="exampleModalLabel">Applying for <?php echo $career_title ?></h1>
+                <h2 class="modal-title fs-5" id="exampleModalLabel">Applying for <?php echo $career_title ?></h2>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
@@ -132,18 +131,15 @@ function openModal() {
                     <input type="text" value="<?php echo $career_id ?>" name="job_applied_for" hidden>
                     <div class="mb-3">
                         <label for="exampleInputEmail1" class="form-label">Your Name</label>
-                        <input type="text" class="form-control" id="exampleInputEmail1" name="job_candidate_name"
-                            aria-describedby="emailHelp" required>
+                        <input type="text" class="form-control" id="exampleInputEmail1" name="job_candidate_name" aria-describedby="emailHelp" required>
                     </div>
                     <div class="mb-3">
                         <label for="exampleInputEmail1" class="form-label">Mobile Number</label>
-                        <input type="number" class="form-control" id="exampleInputEmail1" name="job_candidate_contact"
-                            aria-describedby="emailHelp" required>
+                        <input type="number" class="form-control" id="exampleInputEmail1" name="job_candidate_contact" aria-describedby="emailHelp" required>
                     </div>
                     <div class="mb-3">
                         <label for="exampleInputEmail1" class="form-label">Email Address</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" name="job_candidate_email"
-                            aria-describedby="emailHelp">
+                        <input type="email" class="form-control" id="exampleInputEmail1" name="job_candidate_email" aria-describedby="emailHelp">
                     </div>
                     <div class="mb-3">
                         <label for="exampleInputEmail1" class="form-label">Upload CV</label>
