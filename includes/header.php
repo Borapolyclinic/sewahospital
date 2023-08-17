@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    <!-- Google Search Console ID: sewahospitalmarketing@gmail.com -->
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-084JPKW7K7"></script>
     <script>
@@ -40,7 +41,7 @@
 
     <!-- =============== SEO =============== -->
     <meta name="keywords" content="Sewa Hospital Lucknow, Research Centre in Lucknow, Best Hospital in Lucknow, Top Hospitals in Lucknow, Healthcare in Lucknow, Medical Services in Lucknow, Sewa Hospital & Research Centre Lucknow, Speciality Services in Lucknow, Advanced Medical Care in Lucknow, Emergency Medical Care in Lucknow, Affordable Healthcare in Lucknow, State-of-the-art Hospital in Lucknow, Best Healthcare Services in Lucknow, Experienced Doctors in Lucknow, Leading Medical Centre in Lucknow, Medical Treatment in Lucknow, Quality Healthcare in Lucknow, Patient Care in Lucknow.">
-    <meta name='description' content='Get top-quality medical care in Lucknow at Sewa Hospital & Research Centre. Our experienced doctors and staff provide advanced treatment options and compassionate care. Contact us today!'>
+    <meta name='description' content='Experience the best in healthcare at Sewa Hospital & Research Centre Lucknow. Advanced medical care, specialty services, and experienced doctors for quality patient care.'>
 
     <!-- =============== TITLE =============== -->
     <title><?php echo $title ?></title>
@@ -87,9 +88,14 @@
 
 <body>
     <!-- ========== GOOGLE TAG MANAGER ========== -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THL8N6X" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THL8N6X" height="0" width="0" style="display:none;visibility:hidden">
+        </iframe>
+    </noscript>
 
-    <?php include('includes/cookie.php') ?>
+    <?php // include('includes/cookie.php'); 
+    ?>
+
     <button onclick="topFunction()" id="myBtn" title="Go to top">
         <ion-icon name="caret-up-circle-outline"></ion-icon>
     </button>

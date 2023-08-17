@@ -1,5 +1,5 @@
 <div class="section-1-banner" id="specialities">
-    <h1>SPECIALITIES</h1>
+    <h2>SPECIALITIES</h2>
     <nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="index.php">Home</a></li>

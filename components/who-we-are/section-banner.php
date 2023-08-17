@@ -1,8 +1,6 @@
 <div class="who-we-are-section-banner">
-    <h1>WHO WE ARE</h1>
-    <p class="col-md-6">Sewa Hospital & Research Centre is the first corporate hospital established in the year 1993 to
-        provide super
-        speciality services in Lucknow. The hosiptal is spread over 10 Acres of beautifully landscaped area at Sewa
-        Nagar, Sitapur
-        Road.</p>
+    <h2>Meet the Heartbeat Behind Excellence</h2>
+    <p class="col-md-6">Pioneering the medical landscape since 1993, Sewa Hospital & Research Centre stands as Lucknow's
+        inaugural corporate healthcare facility, offering premier super speciality services. Nestled in the serene
+        expanse of 10 Acres at Sewa Nagar, Sitapur Road, our hospital merges advanced care with scenic tranquility.</p>
 </div>

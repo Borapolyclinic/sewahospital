@@ -1,5 +1,5 @@
 <?php
-$title = "Sewa Hospital & Research Centre";
+$title = "Terms & Conditions";
 include('includes/header.php')
 ?>
 <?php

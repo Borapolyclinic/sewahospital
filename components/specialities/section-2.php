@@ -6,8 +6,7 @@
 
     <div class="speciality-section-2-grid">
         <div class="col-md-6 speciality-section-2-img">
-            <img src="assets/images/webp/element-1.webp"
-                alt="best hospital in lucknow offering 24X7 services in Lucknow">
+            <img src="assets/images/webp/element-1.webp" alt="Innovations in Advanced Medical Care in Lucknow.">
         </div>
         <div class="col-md-6 speciality-section-2-txt">
             <div class="speciality-section-2-pill">
@@ -47,22 +46,6 @@
             <div class="speciality-section-2-pill">
                 <p>Regular OPD's</p>
             </div>
-            <!-- <ul>
-                <li>
-                    <div class="inner-li"></div>
-                </li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul> -->
         </div>
     </div>
 </div>

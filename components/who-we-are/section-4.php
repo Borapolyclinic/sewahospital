@@ -1,14 +1,12 @@
 <div class="who-we-are-section-4-row" id="our-management">
     <div class="col-md-6 who-we-are-section-founder">
-        <img src="assets/images/webp/founder-1.webp"
-            alt="Dr. D. P. Bora the founder of Sewa Hospital & Research Center">
+        <img src="assets/images/webp/founder-1.webp" alt="Quality Healthcare in Lucknow with highest care standards">
         <h3>Late D. P. Bora</h3>
         <p>Founder</p>
     </div>
 
     <div class="col-md-6 who-we-are-section-founder">
-        <img src="assets/images/webp/founder-2.webp"
-            alt="Mrs. Sushila Bora the founder of Sewa Hospital & Research Center">
+        <img src="assets/images/webp/founder-2.webp" alt="Patient Care in Lucknow fostering a nurturing environment">
         <h3>Mrs. Sushila Bora</h3>
         <p>Our Inspiration</p>
     </div>
@@ -18,7 +16,7 @@
     <div class="home-section-5-grid">
         <div class="col-md-6 home-section-5-img">
             <img src="assets/images/webp/dr-neeraj-bora.webp"
-                alt=" Dr. Neeraj Bora founder of Sewa Hospital & Research Centre">
+                alt="Facilities at Sewa Hospital & Research Centre Lucknow">
         </div>
         <div class="col-md-6 home-section-5-txt">
             <h3>Dr. Neeraj <span>Bora</span></h3>

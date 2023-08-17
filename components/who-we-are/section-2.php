@@ -8,7 +8,7 @@
     <div class="who-we-are-section-2-row">
         <div class="col-md-6 who-we-are-section-2-card">
             <img src="assets/images/icon/cost-effective.webp"
-                alt="Sewa Hospital & Research Centre's Cost-effective medical care Icon">
+                alt="Best Healthcare Services in Lucknow ensuring patient satisfaction">
             <div class="who-we-are-section-2-card-inner-text">
                 <h3>Cost-effective medical care</h3>
                 <p>We provide free consultation to patients in our Weekly Free Clinics like Diabetes Clinic, Preventive
@@ -19,7 +19,7 @@
 
         <div class="col-md-6 who-we-are-section-2-card">
             <img src="assets/images/icon/state-of-art.webp"
-                alt="Sewa Hospital & Research Centre's State of the Art Technology Icon">
+                alt="Experienced Doctors in Lucknow delivering trusted medical care">
             <div class="who-we-are-section-2-card-inner-text">
                 <h3>State of the Art Technology</h3>
                 <p>We are equipped with the latest state of the art Technology equipment’s to perform procedures and
@@ -31,7 +31,7 @@
     <div class="who-we-are-section-2-row">
         <div class="col-md-6 who-we-are-section-2-card">
             <img src="assets/images/icon/care.webp"
-                alt="Sewa Hospital & Research Centre's Comprehensive Care Delivery Model Icon">
+                alt="Leading Medical Centre in Lucknow pioneering healthcare trends">
             <div class="who-we-are-section-2-card-inner-text">
                 <h3>Comprehensive Care Delivery Model</h3>
                 <p>We deliver comprehensive care in over 10+ specialities by adopting a service-oriented delivery model,
@@ -41,7 +41,8 @@
         </div>
 
         <div class="col-md-6 who-we-are-section-2-card">
-            <img src="assets/images/icon/trust.webp" alt="Sewa Hospital & Research Centre's A trusted brand name Icon">
+            <img src="assets/images/icon/trust.webp"
+                alt="Personalized Medical Treatment in Lucknow for effective results">
             <div class="who-we-are-section-2-card-inner-text">
                 <h3>A trusted brand name</h3>
                 <p>With more than 30 years of legacy and a trusted name in the business, we are continuously learning to

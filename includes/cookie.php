@@ -2,9 +2,6 @@
 session_start();
 require('admin/includes/db.php');
 $session_id = session_id();
-
-
-
 $search_user = "SELECT * FROM `session` WHERE `session_id` = '$session_id'";
 $search_user_result = mysqli_query($connection, $search_user);
 
@@ -16,7 +13,6 @@ while ($row = mysqli_fetch_assoc($search_user_result)) {
 }
 
 if ($session_user_id !== $session_id || empty($session_user_id || empty($session_cookie_status) || $session_cookie_status == '0')) {
-
 ?>
 <div class="modal fade" id="cookieModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered cookie-modal">
@@ -56,4 +52,4 @@ if ($session_user_id !== $session_id || empty($session_user_id || empty($session
         </div>
     </div>
 </div>
-<?php } ?>
+<?php }  ?>

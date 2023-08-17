@@ -46,10 +46,10 @@
             <div id="departmentUrology" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-1.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-1.webp" alt="Emergency Medical Care in Lucknow - Quick and reliable">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-2.webp" alt="Urology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-2.webp" alt="Affordable Healthcare in Lucknow supporting community well-being">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#departmentUrology" data-bs-slide="prev">
@@ -69,10 +69,10 @@
             <div id="departmentNephralogy" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-3.webp" alt="Nephralogy Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-3.webp" alt="State-of-the-art Hospital in Lucknow's modern architecture">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-4.webp" alt="Nephralogy Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-4.webp" alt="Best Healthcare Services in Lucknow - Patients as the priority">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#departmentNephralogy" data-bs-slide="prev">
@@ -143,10 +143,10 @@
             <div id="departmentGeneral" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-5.webp" alt="General Surgery Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-5.webp" alt="Best Hospital in Lucknow - A beacon of healthcare innovation">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-6.webp" alt="General Surgery Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-6.webp" alt="Top Hospitals in Lucknow offering comprehensive medical care">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#departmentGeneral" data-bs-slide="prev">
@@ -167,10 +167,10 @@
             <div id="departmentGastro" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-11.webp" alt="Gastro Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-11.webp" alt="Healthcare in Lucknow - Nurturing well-being at its core">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-12.webp" alt="Gastro Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-12.webp" alt="Medical Services in Lucknow - Holistic approach to health">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#departmentGastro" data-bs-slide="prev">
@@ -234,10 +234,10 @@
             <div id="orthoDepartment" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-13.webp" alt="Orthopedics Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-13.webp" alt="Sewa Hospital & Research Centre Lucknow's modern architecture">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-14.webp" alt="Orthopedics Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-14.webp" alt="Speciality Services in Lucknow for diverse healthcare needs">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#orthoDepartment" data-bs-slide="prev">
@@ -257,10 +257,10 @@
             <div id="obsDepartment" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-9.webp" alt="Obstetrics & Gynecology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-9.webp" alt="Advanced Medical Care in Lucknow - Embracing medical progress">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-10.webp" alt="Obstetrics & Gynecology Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-10.webp" alt="Emergency Medical Care in Lucknow - Rapid response team">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#obsDepartment" data-bs-slide="prev">
@@ -325,10 +325,10 @@
             <div id="generalMedicine" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-15.webp" alt="General Medicine Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-15.webp" alt="Affordable Healthcare in Lucknow - Ensuring accessible services">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-16.webp" alt="General Medicine Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-16.webp" alt="State-of-the-art Hospital in Lucknow - Cutting-edge facilities">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#generalMedicine" data-bs-slide="prev">
@@ -347,10 +347,10 @@
             <div id="entDepartment" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-7.webp" alt="ENT Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-7.webp" alt="Best Healthcare Services in Lucknow - Focused on patient well-being">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-8.webp" alt="ENT Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-8.webp" alt="Experienced Doctors in Lucknow - Expertise you can trust">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#entDepartment" data-bs-slide="prev">
@@ -422,10 +422,10 @@
             <div id="OphthalmicMedicine" class="carousel slide carousel-dark" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
-                        <img src="assets/images/webp/department-17.webp" alt="Ophthalmic Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-17.webp" alt="Leading Medical Centre in Lucknow - Guiding health trends">
                     </div>
                     <div class="carousel-item">
-                        <img src="assets/images/webp/department-18.webp" alt="Ophthalmic Department of Sewa Hospital & Research Centre ">
+                        <img src="assets/images/webp/department-18.webp" alt="Medical Treatment in Lucknow - Personalized care plans">
                     </div>
                 </div>
                 <button class="carousel-control-prev" id="department-carousel-arrow-prev" type="button" data-bs-target="#OphthalmicMedicine" data-bs-slide="prev">

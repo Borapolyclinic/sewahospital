@@ -3,18 +3,22 @@
         <div class="carousel-item active">
             <div class="home-section-1">
                 <a href="specialities.php#insurance-&-tpa" class="col-md-6 home-section-1-img-banner-2">
-                    <img src="assets/images/webp/home-banner-2.webp" alt="Home page banner for Sewa Hospital">
+                    <img src="assets/images/webp/home-banner-2.webp"
+                        alt="Best Hospital in Lucknow offering top-notch healthcare.">
                 </a>
             </div>
         </div>
         <div class="carousel-item ">
             <div class="home-section-1">
                 <div class="col-md-6 home-section-1-img">
-                    <img src="assets/images/webp/banner-img-1-building.webp" alt="best hospital in lucknow">
+                    <img src="assets/images/webp/banner-img-1-building.webp"
+                        alt="Top Hospitals in Lucknow providing exceptional medical services">
                 </div>
                 <div class="col-md-6 home-section-1-txt">
                     <p class="home-section-1-caption">A Unit of Bora Polyclinic</p>
-                    <h1>A <span>SUPER SPECIALITY</span> HOSPITAL</h1>
+                    <h1><span>Pinnacle of Healthcare: Sewa Hospital & Research Centre -</span> Your Destination for
+                        Advanced Medical
+                        Excellence in Lucknow</h1>
                     <p>NABH Accredited Lab ISO 15189:2012 | NABH Certified Hospital (Entry Level)</p>
 
                     <div class="home-section-1-img-row">

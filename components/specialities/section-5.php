@@ -8,8 +8,7 @@
 
 <div class="specialities-section-5-container">
     <div class="specialities-section-5-img-container col-md-4">
-        <img src="assets/images/webp/pmjay-main.webp"
-            alt="Ayushman Bharat Yojna offered by Sewa Hospital & Research Centre">
+        <img src="assets/images/webp/pmjay-main.webp" alt="Medical Treatment in Lucknow - Tailored for your well-being">
     </div>
 
     <div class="section-5-card-row col-md-8">

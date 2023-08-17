@@ -1,5 +1,5 @@
 <?php
-$title = "Sewa Hospital & Research Centre | The Best Hospital in Lucknow";
+$title = "Sewa Hospital & Research Centre";
 include('includes/header.php')
 ?>
 <?php

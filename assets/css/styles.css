@@ -22,7 +22,7 @@ input::-webkit-inner-spin-button {
 }
 .section-header {
   margin-bottom: 10px;
-  margin-top: 10px;
+  margin-top: 100px;
 }
 .section-header h2 {
   font-weight: 600;
@@ -107,7 +107,7 @@ input::-webkit-inner-spin-button {
   max-width: 10%;
 }
 .navbar-brand img {
-  width: 100%;
+  width: 50%;
   height: auto;
 }
 .nav-link {
@@ -369,7 +369,7 @@ input::-webkit-inner-spin-button {
 .section-4-container h3 {
   margin: 0;
   color: #fff;
-  font-size: 30px;
+  font-size: 26px;
 }
 .section-4-container p {
   margin: 0;
@@ -647,6 +647,11 @@ input::-webkit-inner-spin-button {
   color: #fff;
   font-weight: bold;
 }
+.section-1-banner h2 {
+  margin: 0;
+  color: #fff;
+  font-weight: bold;
+}
 .breadcrumb-item a {
   text-decoration: none;
   color: #fff;
@@ -871,7 +876,7 @@ input::-webkit-inner-spin-button {
   flex-direction: column;
   padding: 10px;
 }
-.who-we-are-section-banner h1 {
+.who-we-are-section-banner h2 {
   margin: 0;
   font-weight: 600;
   color: #fff;

@@ -1,5 +1,5 @@
 <div class="container mt-5">
-    <div class=" section-header">
+    <div class="section-header">
         <h2>Connect <span>with</span> us</h2>
         <p>Tell us, how can we help?</p>
     </div>

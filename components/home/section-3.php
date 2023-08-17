@@ -10,27 +10,27 @@
                     <div class="section-3-card-row">
                         <a href="specialities.php#urology" class="section-3-card">
                             <img src="assets/images/webp/dep-1-icon.webp"
-                                alt="Urology Department of Sewa Hospital & Research Centre">
+                                alt="Healthcare in Lucknow ensuring well-being and health.">
                             <p>Urology</p>
                         </a>
                         <a href="specialities.php#nephralogy" class="section-3-card">
                             <img src="assets/images/webp/dep-2-icon.webp"
-                                alt="Nephralogy Department of Sewa Hospital & Research Centre">
+                                alt="Comprehensive Medical Services in Lucknow for all needs.">
                             <p>Nephralogy</p>
                         </a>
                         <a href="specialities.php#general-surgery-department" class="section-3-card">
                             <img src="assets/images/webp/dep-3-icon.webp"
-                                alt="General Surgery Department of Sewa Hospital & Research Centre">
+                                alt="Sewa Hospital & Research Centre Lucknow's dedicated team">
                             <p>General Surgery</p>
                         </a>
                         <a href="specialities.php#gastro" class="section-3-card">
                             <img src="assets/images/webp/dep-4-icon.webp"
-                                alt="Gastro Surgery Department of Sewa Hospital & Research Centre">
+                                alt="Speciality Services in Lucknow for diverse healthcare needs">
                             <p>Gastro Surgery</p>
                         </a>
                         <a href="specialities.php#ortho" class="section-3-card">
                             <img src="assets/images/webp/dep-5-icon.webp"
-                                alt="Orthopedics Department of Sewa Hospital & Research Centre">
+                                alt="Advanced Medical Care in Lucknow with cutting-edge treatments">
                             <p>Orthopedics</p>
                         </a>
                     </div>
@@ -39,22 +39,22 @@
                     <div class="section-3-card-row">
                         <a href="specialities.php#obs" class="section-3-card">
                             <img src="assets/images/webp/dep-6-icon.webp"
-                                alt="OBS & Gynecology Department of Sewa Hospital & Research Centre">
+                                alt="Emergency Medical Care in Lucknow for critical situations">
                             <p>OBS & Gynecology</p>
                         </a>
                         <a href="specialities.php#general-medicine" class="section-3-card">
                             <img src="assets/images/webp/dep-7-icon.webp"
-                                alt="General Medicine Department of Sewa Hospital & Research Centre">
+                                alt="Affordable Healthcare in Lucknow accessible to all">
                             <p>General Medicine</p>
                         </a>
                         <a href="specialities.php#ent" class="section-3-card">
                             <img src="assets/images/webp/dep-8-icon.webp"
-                                alt="ENT Department of Sewa Hospital & Research Centre">
+                                alt="State-of-the-art Hospital in Lucknow equipped with modern facilities">
                             <p>ENT</p>
                         </a>
                         <a href="specialities.php#ophthalmic" class="section-3-card">
                             <img src="assets/images/webp/dep-9-icon.webp"
-                                alt="Ophthalmic Department of Sewa Hospital & Research Centre">
+                                alt="Best Healthcare Services in Lucknow prioritizing patient care">
                             <p>Ophthalmic</p>
                         </a>
                     </div>
@@ -80,7 +80,7 @@
     <div class="container">
         <div class="section-header">
             <h2>Our <span>Specialities</span></h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+            <p>Click on any department below to know more.</p>
         </div>
         <div id="mobileCarousel" class="carousel slide carousel-dark" data-bs-ride="carousel">
             <div class="carousel-inner">
@@ -88,7 +88,7 @@
                     <a href="specialities.php#urology" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-1-icon.webp"
-                                alt="Urology Department of Sewa Hospital & Research Centre">
+                                alt="Best Hospital in Lucknow offering top-notch healthcare.">
                             <p>Urology</p>
                         </div>
                     </a>
@@ -98,7 +98,7 @@
                     <a href="specialities.php#nephralogy" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-2-icon.webp"
-                                alt="Nephralogy Department of Sewa Hospital & Research Centre">
+                                alt="Top Hospitals in Lucknow providing exceptional medical services">
                             <p>Nephralogy</p>
                         </div>
                     </a>
@@ -108,7 +108,7 @@
                     <a href="specialities.php#general-surgery-department" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-3-icon.webp"
-                                alt="General Surgery Department of Sewa Hospital & Research Centre">
+                                alt="Healthcare in Lucknow ensuring well-being and health">
                             <p>General Surgery</p>
                         </div>
                     </a>
@@ -118,7 +118,7 @@
                     <a href="specialities.php#gastro" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-4-icon.webp"
-                                alt="Gastro Surgery Department of Sewa Hospital & Research Centre">
+                                alt="Comprehensive Medical Services in Lucknow for all needs">
                             <p>Gastro Surgery</p>
                         </div>
                     </a>
@@ -128,7 +128,7 @@
                     <a href="specialities.php#ortho" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-5-icon.webp"
-                                alt="Orthopedics Department of Sewa Hospital & Research Centre">
+                                alt="Sewa Hospital & Research Centre Lucknow's dedicated team">
                             <p>Orthopedics</p>
                         </div>
                     </a>
@@ -138,7 +138,7 @@
                     <a href="specialities.php#obs" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-6-icon.webp"
-                                alt="OBS & Gynecology Department of Sewa Hospital & Research Centre">
+                                alt="Speciality Services in Lucknow for diverse healthcare needs">
                             <p>OBS & Gynecology</p>
                         </div>
                     </a>
@@ -148,7 +148,7 @@
                     <a href="specialities.php#general-medicine" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-7-icon.webp"
-                                alt="General Medicine Department of Sewa Hospital & Research Centre">
+                                alt="Advanced Medical Care in Lucknow with cutting-edge treatments">
                             <p>General Medicine</p>
                         </div>
                     </a>
@@ -158,7 +158,7 @@
                     <a href="specialities.php#ent" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-8-icon.webp"
-                                alt="ENT Department of Sewa Hospital & Research Centre">
+                                alt="Emergency Medical Care in Lucknow for critical situations">
                             <p>ENT</p>
                         </div>
                     </a>
@@ -168,7 +168,7 @@
                     <a href="specialities.php#opthalmic" class="section-3-card-mobile-container">
                         <div class="section-3-card">
                             <img src="assets/images/webp/dep-9-icon.webp"
-                                alt="Ophthalmic Department of Sewa Hospital & Research Centre">
+                                alt="Affordable Healthcare in Lucknow accessible to all">
                             <p>Ophthalmic</p>
                         </div>
                     </a>

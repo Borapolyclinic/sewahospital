@@ -10,7 +10,8 @@
 
         <div class="home-section-8-row">
             <div class="col-md-6 home-section-8-img">
-                <img src="assets/images/webp/pmjay.webp" alt="Ayushman Bharat Image posted for Sewa Hospital & Research Centre">
+                <img src="assets/images/webp/pmjay.webp"
+                    alt="Cutting-edge Advanced Medical Care in Lucknow for critical cases">
             </div>
             <div class="col-md-6 home-section-8-txt">
                 <p>

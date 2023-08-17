@@ -19,22 +19,26 @@
                     <div class="carousel-item active">
                         <div class="home-section-7-row">
                             <a href="specialities.php#insurance-&-tpa" class="home-section-7-tpa">
-                                <img src="assets/images/webp/tpa/tpa-1.webp" alt="TPA 1 offered by Sewa Hospital">
+                                <img src="assets/images/webp/tpa/tpa-1.webp"
+                                    alt="Medical Treatment in Lucknow tailored to individual needs.">
                                 <p>United Health Care Parekh Insurance (TPA) Pvt. Ltd.</p>
                             </a>
 
                             <a href="specialities.php#insurance-&-tpa" class="home-section-7-tpa">
-                                <img src="assets/images/webp/tpa/tpa-2.webp" alt="TPA 2 offered by Sewa Hospital">
+                                <img src="assets/images/webp/tpa/tpa-2.webp"
+                                    alt="Quality Healthcare in Lucknow with uncompromised standards">
                                 <p>Medi Assist Insurance (TPA) Pvt. Ltd.</p>
                             </a>
 
                             <a href="specialities.php#insurance-&-tpa" class="home-section-7-tpa">
-                                <img src="assets/images/webp/tpa/tpa-3.webp" alt="TPA 3 offered by Sewa Hospital">
+                                <img src="assets/images/webp/tpa/tpa-3.webp"
+                                    alt="Patient Care in Lucknow focused on comfort and support">
                                 <p>MD India Health Insurance (TPA) Pvt. Ltd.</p>
                             </a>
 
                             <a href="specialities.php#insurance-&-tpa" class="home-section-7-tpa">
-                                <img src="assets/images/webp/tpa/tpa-4.webp" alt="TPA 4 offered by Sewa Hospital">
+                                <img src="assets/images/webp/tpa/tpa-4.webp"
+                                    alt="Interior ambiance of Sewa Hospital Lucknow promoting healing">
                                 <p>Paramount Health Services & Insurance (TPA) Pvt. Ltd.</p>
                             </a>
                         </div>
@@ -42,22 +46,26 @@
                     <div class="carousel-item">
                         <div class="home-section-7-row">
                             <a href="specialities.php#insurance-&-tpa" class="home-section-7-tpa">
-                                <img src="assets/images/webp/tpa/tpa-5.webp" alt="TPA 5 offered by Sewa Hospital">
+                                <img src="assets/images/webp/tpa/tpa-5.webp"
+                                    alt="Research Centre in Lucknow driving breakthrough discoveries">
                                 <p>Heritage Health Insurance (TPA) Pvt. Ltd.</p>
                             </a>
 
                             <a href="specialities.php#insurance-&-tpa" class="home-section-7-tpa">
-                                <img src="assets/images/webp/tpa/tpa-6.webp" alt="TPA 6 offered by Sewa Hospital">
+                                <img src="assets/images/webp/tpa/tpa-6.webp"
+                                    alt="Wellness hub - Top Hospitals in Lucknow promoting well-being">
                                 <p>Family Health Plan Insurance (TPA) Pvt. Ltd.</p>
                             </a>
 
                             <a href="specialities.php#insurance-&-tpa" class="home-section-7-tpa">
-                                <img src="assets/images/webp/tpa/tpa-7.webp" alt="TPA 7 offered by Sewa Hospital">
+                                <img src="assets/images/webp/tpa/tpa-7.webp"
+                                    alt="Comprehensive Medical Services in Lucknow for all health aspects">
                                 <p>Raksha Health Insurance (TPA) Pvt. Ltd.</p>
                             </a>
 
                             <a href="specialities.php#insurance-&-tpa" class="home-section-7-tpa">
-                                <img src="assets/images/webp/tpa/tpa-8.webp" alt="TPA 8 offered by Sewa Hospital">
+                                <img src="assets/images/webp/tpa/tpa-8.webp"
+                                    alt="Speciality Services in Lucknow offering diverse medical expertise">
                                 <p>Medsave Health Insurance (TPA) Pvt. Ltd.</p>
                             </a>
                         </div>
