@@ -3,6 +3,7 @@ $title = "Sewa Hospital & Research Centre";
 include('includes/header.php')
 ?>
 <?php
+header_remove("X-Powered-By");
 // $title = "Under Maintenance | Sewa Hospital & Research Center";
 // include('includes/header.php')
 ?>
