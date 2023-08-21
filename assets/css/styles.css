@@ -1660,6 +1660,35 @@ input::-webkit-inner-spin-button {
     font-size: 25px;
   }
 
+  /* =========== WHO WE ARE SECTION BANNER =========== */
+  .who-we-are-section-banner {
+    max-width: 100%;
+    background-image: url("../images/webp/bg-banner-2.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100% !important;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+  }
+  .who-we-are-section-banner h2 {
+    margin: 0;
+    font-weight: 600;
+    color: #fff;
+    text-align: center !important;
+  }
+  .who-we-are-section-banner p {
+    margin: 0;
+    font-size: 24px;
+    text-align: center;
+    line-height: 25px;
+    color: #fff;
+    text-align: center !important;
+  }
+
   /* =========== WHO WE ARE SECTION 1 =========== */
   .who-we-are-section-1 {
     margin-top: 50px;
